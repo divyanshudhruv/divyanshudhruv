@@ -17,3 +17,6 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshudhruv&show_icons=true&locale=en&layout=compact" alt="divyanshudhruv" /></p><br>
 
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshudhruv&show_icons=true&locale=en" alt="divyanshudhruv" /></p>
+
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![HTML Badge](https://img.shields.io/badge/-HTML-f67c01?style=for-the-badge&labelColor=black&logo=html5&logoColor=f67c01)](#) [![Css Badge](https://img.shields.io/badge/-CSS-30ace0?style=for-the-badge&labelColor=black&logo=css3&logoColor=30ace0)](#) [![Sass Badge](https://img.shields.io/badge/-sass-cc6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=cc6699)](#) [![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-8612fb?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=8612fb)](#) [![Pug Badge](https://img.shields.io/badge/-Pug-00ff00?style=for-the-badge&labelColor=black&logo=pug&logoColor=00ff00)](#)
+
