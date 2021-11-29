@@ -6,7 +6,7 @@
 * 👀 I'm interested in Coding.
 * 🌱 I'm currently learning JavaScript, CSS, JSON and HTML.
 * 👨‍💻 I like Coding very much.
-* 🔭 I’m currently working on **Self Designed Game**.
+* 🔭 I’m currently working on **CSS Web Page**.
 * 🌱 I’m currently learning **HTML, CSS, JSON and JavaScript**.
 <br><br>
 
