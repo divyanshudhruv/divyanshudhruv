@@ -5,15 +5,35 @@
 
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?color=000000&size=15&lines=I'm+a+beginner+dev+who+loves+exploring!)](https://git.io/typing-svg) <br>
 
+<br><br>
+
+<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
+
+## 🙋‍♂️ About Me
+> - 👀 I'm interested in Coding.
+
+> - 😁 Personal Website Published :)
+
+> - 💬 Ask me about anything, I'm happy to help! 😁 
+
+> - 🐱‍💻I’m looking to collaborate on **Open Source Stuff**
+
+> - 🌱 I’m currently learning **HTML, CSS, JSON and JavaScript**.
+
+> - ⚡ Fun fact: I'm always exploring new stuff, literally every day! 
+
+
+
+
+
+
 <br>
 
-* 👀 I'm interested in Coding.
-* 🌱 I'm currently learning JavaScript, CSS, JSON and HTML.
-* 👨‍💻 I like Coding very much.
-* 🔭 I’m currently working on **CSS Web Page**.
-* 🌱 I’m currently learning **HTML, CSS, JSON and JavaScript**.
-* 🐱‍💻Need Someone To **Collaborate** With Me!
-<br><br>
+## Who I am : 
+
+> I'm a student studying in India <br>
+> I love Game Development, App Development, and I'm learning the fundamentals of ReactJS and Web Development currently, and also working on [this](https://github.com/Adatta1276/Among-Us-JS-Edition) <br> 
+> In my free time, I love playing MineCraft and Among Us, and watching YouTube videos. I'm also into outdoor games. <br><br>
 
 
 <h3 align="center">Languages That I Use:</h3>
