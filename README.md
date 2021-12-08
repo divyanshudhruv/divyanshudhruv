@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Dhruv</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&label=Profile%20Views&color=00ffff&style=flat" alt="divyanshudhruv" /> </p>
 
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" width="100px" height="100px" ></img> <br><br>
+
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=000000&size=15&lines=I'm+a+beginner+dev+who+loves+exploring!)](https://git.io/typing-svg) <br>
+
 <br>
 
 * 👀 I'm interested in Coding.
