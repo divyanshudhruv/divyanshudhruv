@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&label=Profile%20views&color=657EFA&style=flat" alt="divyanshudhruv" /> </p>
 
 
-- > 🔭 I’m currently working on [Flutter](https://github.com/divyanshudhruv/Flutter).
+- > 🔭 I’m currently working on [Project](https://github.com/divyanshudhruv).
 
 - > 🌱 I’m currently learning **Dart And Java**.
 
