@@ -4,13 +4,13 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&label=Profile%20views&color=657EFA&style=flat" alt="divyanshudhruv" /> </p>
 
 
-- > 🔭 I’m currently working on [Project](https://github.com/divyanshudhruv).
+- > 🔭 I’m currently working on [Project](https://github.com/divyanshudhruv/Gamer.js).
 
 - > 🌱 I’m currently learning **Dart And Java**.
 
 - > 🤝 I’m looking for help with [My-Google](https://github.com/divyanshudhruv/My-Google).
 
-- > 👨‍💻 My Portfolio [https://divyanshudhruv.github.io/Website/](https://divyanshudhruv.github.io/Website/).
+- > 👨‍💻 My Portfolio [https://divyanshudhruv.github.io/Website/](https://divyanshudhruv.github.io/Portfolio/).
 
 - > 💬 Ask me about **Html, Css And JavaScript**.
 
