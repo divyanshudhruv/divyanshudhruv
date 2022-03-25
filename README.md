@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Divyanshu Dhruv</h1>
-<h3 align="center">A Pro Developer Who Loves Html, Css And JavaScript.</h3>
+<h3 align="center">A Web Developer Who Loves Html, Css And JavaScript.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&label=Profile%20views&color=657EFA&style=flat" alt="divyanshudhruv" /> </p>
 
