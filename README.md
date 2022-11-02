@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&label=Profile%20views&color=657EFA&style=flat" alt="divyanshudhruv" /> </p>
 
 
-- > 🔭 I’m currently working on **Samle Mobile App Development**
+- > 🔭 I’m currently working on **Sample Mobile App Development**
 
 - > 🌱 I’m currently learning **Dart And Java**.
 
