@@ -15,7 +15,7 @@
 
 <Br><Br>
 
-
+<p align="center">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshudhruv&show_icons=true&locale=en" alt="divyanshudhruv" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshudhruv&" alt="divyanshudhruv" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshudhruv&" alt="divyanshudhruv" /></p></p>
