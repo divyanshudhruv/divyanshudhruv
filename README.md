@@ -5,17 +5,16 @@
 
 - > 🔭 I’m currently working on **Sample Mobile App Development**
 
-- > 🌱 I’m currently learning about **database**
+- > 🌱 I’m currently learning about **Database**
 
-- > 💬 Ask me about **anything**
+- > 💬 Ask me about **Anything**
 
-- > 📫 How to reach me: **github**
+- > 📫 How to reach me: **Github**
 
 - > ⚡ Fun fact: **I think I am funny**
 
-<Br><Br>
+<Br>
+  
+&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshudhruv&show_icons=true&locale=en" alt="divyanshudhruv" />
 
-<p align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshudhruv&show_icons=true&locale=en" alt="divyanshudhruv" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshudhruv&" alt="divyanshudhruv" /></p></p>
+&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshudhruv&" alt="divyanshudhruv" /></p>
