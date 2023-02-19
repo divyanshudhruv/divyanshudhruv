@@ -2,7 +2,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&label=Profile%20views&color=708dff&style=flat-square" alt="divyanshudhruv" /> </p>
 <br>
 
-
 - > 🔭 I’m currently working on **Sample Mobile App Development**
 
 - > 🌱 I’m currently learning about **Database**
