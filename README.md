@@ -26,6 +26,9 @@ new!-->
 </p>
 
 
+<Br>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&label=Profile%20views&color=808fff&style=for-the-badge" alt="divyanshudhruv" /> </p>
+
 
 <!--
 <img width="225" alt="image" src="https://user-images.githubusercontent.com/71079602/200512513-db40b22b-1f7b-49bf-b404-a7902692b5cc.png">
@@ -34,11 +37,15 @@ new!-->
 <br>
 
 # 📋 Info
-> ⚠️ I’m currently working on **Sample Mobile App Development**
+> ⚠️ I’m currently working on **`Sample Mobile App Development`**
 
-> ⚠️ Ask me about **Anything**
+> 👍🏻 Ask me about **`Anything`**
 
-> ⚠️ Fun fact: **I think I am funny**
+> ⚡ Fun fact: **`I think I am funny`**
+  
+> 📫 Find Me: **`Github`** , **`Discord`**  
+  
+> 🙏🏻 Follow Me :)  
 
 
 <br>
@@ -66,7 +73,7 @@ new!-->
   <Br>
   
 # 🚧 Repository
-> v0.1 **`To Be Published`**
+> **`To Be Published`**
 
 <br>
 
@@ -77,7 +84,7 @@ new!-->
 <br>
 
 
-# 🎯 Stats
+# ✏️ Stats
 > <img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshudhruv&show_icons=true&locale=en" alt="divyanshudhruv" />
 
 <br>
@@ -99,6 +106,7 @@ new!-->
   
 # 🌱 Environment
 > Mainly **`Frontend`**
+  
 > With A Little Bit Of **`Backend`**
   
   
