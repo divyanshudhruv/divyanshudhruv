@@ -113,11 +113,5 @@ new!-->
   <Br>
   
   
-  # 📌 Country
- > **`India`**   
-    
-  
-  
-  <br>
   
   
