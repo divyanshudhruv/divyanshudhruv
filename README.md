@@ -97,38 +97,20 @@ new!-->
   -->
 
   
-# 🌱 Environment Support
-> Web Browser **`Still Under Development`**
+# 🌱 Environment
+> Mainly **`Frontend`**
+> With A Little Bit Of **`Backend`**
+  
+  
   
   <Br>
-<!--
-  # 📦 Get Started
-  > ✏️ Start With Design Inspiration
-
-  > 🔦 Add Your Logos
-
-  > 🎯 Perfect your design
-   
-  > 🪧 Preview The Design
- 
-  > 🚀 Copy The Code **`File Download Still Under Development`**
   
-  <Br>--!>
-   
-      
-# 👍🏻 Contributing  
-> 💖 Give Feedback 
-      
-> 💡 Join The Project 
-      
-> 📝 Make Issues
-      
-> 🎉 Make Pull Requests 
-      
-> ✨ Share It 
-
-<br>
-      
-# 📌 Country
+  
+  # 📌 Country
  > **`India`**   
     
+  
+  
+  <br>
+  
+  
