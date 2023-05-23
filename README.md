@@ -36,7 +36,7 @@ new!-->
 <br>
 
 # 📋 Info
-> ⚠️ I’m currently working on **`Sample Mobile App Development`**
+> ⚠️ I’m currently working on **[Java Game](https://www.github.com/divyanshudhruv/Guess-The-Number)**
 
 > 👍🏻 Ask me about **`Anything`**
 
@@ -64,10 +64,12 @@ new!-->
 > CSS **`3`**
 
 > Javascript
+  
+ > Java
     
- > Bootstrap **`v5.1.3`** 
+> Bootstrap **`v5.1.3`** 
     
- > Ionicons **`v5.5.2`**
+<!-- > Ionicons **`v5.5.2`** -->
   
   <Br>
   
