@@ -2,9 +2,9 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&label=Profile%20views&color=708dff&style=flat-square" alt="divyanshudhruv" /> </p>
 <br>
 
-- > 🔭 I’m currently working on **Sample Mobile App Development**
+- > 🔭 I’m currently working on **My Portfolio**
 
-- > 🌱 I’m currently learning about **Database**
+- > 🌱 I’m currently learning about **React**
 
 - > 💬 Ask me about **Anything**
 
@@ -36,7 +36,7 @@ new!-->
 <br>
 
 # 📋 Info
-> ⚠️ I’m currently working on a **`Website`**
+> ⚠️ I’m currently working on **`My Portfolio`**
 
 > 👍🏻 Ask me about **`Anything`**
 
@@ -111,11 +111,30 @@ new!-->
 > Mainly **`Frontend`**
   
 > With A Little Bit Of **`Backend`**
+
+
+<br>
+
+
+# ⌚ Time
+
+> ```text
+> ✏️ Programming Languages:
+> HTML                      2 hrs 00 mins      ██████████░░░░░░░░░░░░░░░   40.00 % 
+> CSS                       1 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   30.00 % 
+> Java                      1 hrs 00 mins      ████░░░░░░░░░░░░░░░░░░░░░   20.00 % 
+> Markdown                  0 hrs 30 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+>                                                                                 
+> 🔥 Editors: 
+> Visual Studio Code        3 hrs 30 mins      ██████████████████░░░░░░░   70.00 % 
+> BlueJ                     1 hrs 00 mins      ████░░░░░░░░░░░░░░░░░░░░░   20.00 % 
+> Typora                    0 hrs 30 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+>   
+> 📌 Projects: 
+> Portfolio                5 hrs 00 mins       ██████████████░░░░░░░░░░░   55.00 % 
+> Java                     2 hrs 00 mins       ██████░░░░░░░░░░░░░░░░░░░   20.00 % 
+> Profile                  1 hrs 00 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+> Other                    0 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+```
   
-  
-  
-  <Br>
-  
-  
-  
-  
+
