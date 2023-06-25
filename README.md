@@ -38,7 +38,7 @@ new!-->
 # 📋 Info
 > ⚠️ I’m currently working on **`My Portfolio`**
 
-> 👍🏻 Ask me about <code><a href="https://github.com/divyanshudhruv/divyanshudhruv/issues">**Anything**</a></code>
+> 👍🏻 Ask me about <code><a href="https://github.com/divyanshudhruv/divyanshudhruv/issues/1">**Anything**</a></code>
 
 > ⚡ Fun fact: **`I think I am funny`**
   
