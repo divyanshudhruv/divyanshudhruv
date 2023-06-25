@@ -6,7 +6,7 @@
 
 - > 🌱 I’m currently learning about **React**
 
-- > 💬 Ask me about **Anything**
+- > 💬 Ask me about **Anything** .
 
 - > 📫 How to reach me: **Github**
 
@@ -38,7 +38,7 @@ new!-->
 # 📋 Info
 > ⚠️ I’m currently working on **`My Portfolio`**
 
-> 👍🏻 Ask me about **`Anything`**
+> 👍🏻 Ask me about <code><a href="https://github.com/divyanshudhruv/divyanshudhruv/issues">**Anything**</a></code>
 
 > ⚡ Fun fact: **`I think I am funny`**
   
