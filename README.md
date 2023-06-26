@@ -92,12 +92,6 @@ new!-->
 
 <br>
 
-# ⭐ Star History
-> <img src="https://api.star-history.com/svg?repos=divyanshudhruv/divyanshudhruv&type=Date" width="600px" height="410px">
-
-
-<br>
-
 <!--
 # ✨ Features
 > 🖌️ Nice Modern UI Design
@@ -142,4 +136,10 @@ new!-->
 > Java                     1 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   20.00 %
 > Profile                  1 hrs 00 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.00 %
 > Other                    1 hrs 00 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-```
+> ```
+
+<br>
+
+
+# 🏆 Star History
+> <img src="https://api.star-history.com/svg?repos=divyanshudhruv/divyanshudhruv&type=Date"  width="775px" height="520px">
