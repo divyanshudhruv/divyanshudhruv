@@ -81,14 +81,14 @@ new!-->
 <br>
 
 # 🔥 Contribution
-> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshudhruv&" alt="divyanshudhruv" /></p>
+> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshudhruv" alt="divyanshudhruv" /></p>
 
 
 <br>
 
 
 # ✏️ Stats
-> <img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshudhruv&show_icons=true&locale=en" alt="divyanshudhruv" />
+> <img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshudhruv&show_icons=true&locale=en&include_all_commits=true" alt="divyanshudhruv" />
 
 <br>
 
