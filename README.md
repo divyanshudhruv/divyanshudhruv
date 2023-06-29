@@ -26,7 +26,8 @@ new!-->
 
 
 <Br>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&label=Profile%20views&color=808fff&style=for-the-badge" alt="divyanshudhruv" /> </p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&label=Profile%20views&color=808fff&style=for-the-badge" alt="divyanshudhruv" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Made%20with-Markdown-orange?style=for-the-badge"> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/stars-5-yellow?style=for-the-badge">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/followers-43-green?style=for-the-badge"></p>
+
 
 
 <!--
