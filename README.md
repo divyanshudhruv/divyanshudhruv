@@ -26,7 +26,13 @@ new!-->
 
 
 <Br>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&label=Profile%20views&color=808fff&style=for-the-badge" alt="divyanshudhruv" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Made%20with-Markdown-orange?style=for-the-badge"> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/stars-5-yellow?style=for-the-badge">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/followers-49-green?style=for-the-badge">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/license-mit-6fbfff?style=for-the-badge"></p>
+
+<p align="center"><code>🤖 Thank you for 50 followers !</code></p>
+
+<br>
+
+
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&label=Profile%20views&color=808fff&style=for-the-badge" alt="divyanshudhruv" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Made%20with-Markdown-orange?style=for-the-badge"> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/stars-5-yellow?style=for-the-badge">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/followers-50-green?style=for-the-badge">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/license-mit-6fbfff?style=for-the-badge"></p>
 
 
 
