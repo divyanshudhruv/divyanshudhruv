@@ -10,7 +10,7 @@
 
 - > 📫 How to reach me: **Github**
 
-- > ⚡ Fun fact: **I think I am funny**
+- > ⚡ Fun fact: **I love to play guitar**
 
 <Br>
   
