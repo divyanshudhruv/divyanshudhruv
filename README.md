@@ -27,7 +27,7 @@ new!-->
 
 <Br>
 
-<p align="center"><code>🤖 Thank you for 50 followers !</code></p>
+<p align="center"><code>🤖 Thank you for > 50 followers !</code></p>
 
 <br>
 
