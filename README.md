@@ -1,25 +1,3 @@
-<!--<h1 align="center">Hi 👋, I'm Divyanshu Dhruv</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&label=Profile%20views&color=708dff&style=flat-square" alt="divyanshudhruv" /> </p>
-<br>
-
-- > 🔭 I’m currently working on **My Portfolio**
-
-- > 🌱 I’m currently learning about **React**
-
-- > 💬 Ask me about **Anything** .
-
-- > 📫 How to reach me: **Github**
-
-- > ⚡ Fun fact: **I love to play guitar**
-
-<Br>
-  
-&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshudhruv&show_icons=true&locale=en" alt="divyanshudhruv" />
-
-&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshudhruv&" alt="divyanshudhruv" /></p>
-
-
-new!-->
 
 <p align="center"><h1><p align="center">Hi 👋🏻, I Am Divyanshu Dhruv</p></h1>
 </p>
