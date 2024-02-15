@@ -9,7 +9,7 @@
   <br><br>
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="190px" height="34.5px"> &nbsp;&nbsp;&nbsp; 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="190px" height="34.2px"> &nbsp;&nbsp;&nbsp; 
  <img src="img/built with.svg" > &nbsp;&nbsp;&nbsp; <img src="img/uses-markdown.svg"> &nbsp;&nbsp;&nbsp; <img src="img/Stars.svg">&nbsp;&nbsp;&nbsp;</p>
 
 <br>
