@@ -1,132 +1,187 @@
+<img src="https://s6.ezgif.com/tmp/ezgif-6-f474f85eec.gif">
 
-<p align="center"><h1><p align="center">Hi 👋🏻, I Am Divyanshu Dhruv</p></h1>
-</p>
+---
 
+<br>
+
+<p align="left"><h1><p align="left">𝗛𝗶, 👋🏻 𝗜'𝗺 𝗗𝗶𝘃𝘆𝗮𝗻𝘀𝗵𝘂 𝗗𝗵𝗿𝘂𝘃 </p></h1></p>
+<font align="left" ><code>&nbsp;Just a coder ✌🏻</code></font>
+  <br><br>
+<br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="190px" height="35px"> &nbsp;&nbsp;&nbsp; 
+ <img src="img/built with.svg" > &nbsp;&nbsp;&nbsp; <img src="img/uses-markdown.svg"> &nbsp;&nbsp;&nbsp; <img src="img/Stars.svg">&nbsp;&nbsp;&nbsp; <img
+src="img/Is-a-dev.svg"></p>
+
+<br>
+
+<div style="line-height:1px;">
+<details>
+  <summary><h3>🫥 About Me</h3></summary>
+ 
+<p align="left">
+<br>
+
+> ⚒️ I’m currently working on **Snippet Generator**
+
+<br>
+
+> 🌱 I’m currently learning about **Database**
 
 <Br>
 
-<p align="center"><code>🤖 Thank you for > 50 followers !</code></p>
+> 👍🏻 Ask me about **Anything**
 
 <br>
 
+> ⚡ Fun fact: **I love to play Guitar**
 
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&label=Profile%20views&color=808fff&style=for-the-badge" alt="divyanshudhruv" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/Made%20with-Markdown-orange?style=for-the-badge"> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/stars-5-yellow?style=for-the-badge">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/followers-50-green?style=for-the-badge">&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/license-mit-6fbfff?style=for-the-badge"></p>
-
-
-
-<!--
-<img width="225" alt="image" src="https://user-images.githubusercontent.com/71079602/200512513-db40b22b-1f7b-49bf-b404-a7902692b5cc.png">
-<img width="202" alt="image" src="https://user-images.githubusercontent.com/71079602/200513624-aca4e30e-4195-4576-b574-2bcac83e29c9.png">
--->
-<br>
-
-# 📋 Info
-> ⚠️ I’m currently working on **`My Portfolio`**
-
-> 👍🏻 Ask me about <code><a href="https://github.com/divyanshudhruv/divyanshudhruv/issues/1">**Anything**</a></code>
-
-> ⚡ Fun fact: **`I think I am funny`**
+  <br>
   
-> 📫 Find Me: **`Github`** , **`Discord`**  
-  
-> 🙏🏻 Follow Me :)  
+> 📫 Find Me: **Github** , **Discord**
 
+  <br>
+  </p>
+</details>
+
+<details>
+  <summary><h3>📁 My Projects</h3></summary>
 
 <br>
 
+> **📍** [**Minifolio**](https://github.com/divyanshudhruv/Minifolio): A minimal portfolio template for developers
 
-# ⚒️ Projects
-> To See The Latest Projects, Visit My **``Repository``** 
+ <br>
+
+> **🤖** [**Portfolio**](https://github.com/divyanshudhruv/divyanshudhruv.github.io): My personal portfolio
+
+ <br>
+ 
+ > **🚩** [**Better-Markdown**](https://github.com/divyanshudhruv/Better-Markdown): Tips for markdown
+
+  <br>
+  
+</details>
+
+<details>
+  <summary><h3>🔦 Tech and Tools</h3></summary>
+
+<br>
+<details>
+  <summary><h4>🕹️ Frontend Development</h4></summary>
+  <br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="20" />
+    <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="20" />
+  <br>
+</div></details>
+
+###
+
+<details>
+  <summary><h4>🧪 Programming Languages</h4></summary>
+<div align="left"><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+</div>
+  <br>
+</details>
+
+###
+
+<details>
+  <summary><h4>📌 Terminals</h4></summary>
+<br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+    <img width="20px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+</div>
+<br>
+</details>
+
+###
+
+<details>
+  <summary><h4>🔒 Database</h4></summary>
+  <br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg" height="40" alt="couchdb logo"  />  
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+
+</div><br>
+</details>
+
+###
+
+<details>
+  <summary><h4>🖌️ Designing</h4></summary>
+  <br>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+<br>
+</details>
+
+###
+
+###
+
+</details>
+
+<details>
+  <summary><h3>⌚ Github Stats</h3></summary>
+
+<br>
+<details><summary><h4>🔥 Stats</h3></summary>
+
+  <br>
+  
+> <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshudhruv" alt="divyanshudhruv" /></p>
 
 <br>
 
+> <img  src="https://github-readme-stats.vercel.app/api?username=divyanshudhruv&show_icons=true&locale=en&include_all_commits=true" alt="divyanshudhruv" width="495px"/>
+>   <br>
 
-# 🕹️ Development
-> Github
-    
-> HTML **``5``**
-    
-> CSS **`3`**
-  
-> React  
+</details>
 
-> Javascript
+<details><summary><h4>⚡ Languages</h3></summary>
+
+  <br>
   
- > Java
-    
-> Bootstrap **`v5.1.3`** 
-    
-<!-- > Ionicons **`v5.5.2`** -->
-  
-  <Br>
-  
-# 🚧 Repository
-> **`To Be Published`**
+>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshudhruv&hide_progress=true">
+<br>
+</details>
+</details>
+
+<details>
+  <summary><h3>🪄 Top Repositories</h3></summary>
 
 <br>
 
-# 🔥 Contribution
-> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshudhruv" alt="divyanshudhruv" /></p>
+> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divyanshudhruv&repo=Minifolio&show_owner=true)](https://github.com/divyanshudhruv/Minifolio)
 
+ <br>
 
-<br>
-
-
-# ✏️ Stats
-> <img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshudhruv&show_icons=true&locale=en&include_all_commits=true" alt="divyanshudhruv" />
+> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divyanshudhruv&repo=Better-Markdown&show_owner=true)](https://github.com/divyanshudhruv/Better-Markdown)
 
 <br>
 
-<!--
-# ✨ Features
-> 🖌️ Nice Modern UI Design
+> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divyanshudhruv&repo=divyanshudhruv.github.io&show_owner=fasle)](https://github.com/divyanshudhruv/divyanshudhruv.github.io)
 
-> ⚡Cool Icons
-
-> 📝 Built With **`CSS`** For Easy Coding
-
-> 🪄 Theme Customization In Every Detail.
-
-> 🌙 The Project Supports **`Dark Mode`** Styling
-
-<Br>
-  -->
-
+  <br>
   
-# 🌱 Environment
-> Mainly **`Frontend`**
-  
-> With A Little Bit Of **`Backend`**
-
+</details></div>
 
 <br>
-
-
-# ⌚ Time
-
-> ```text
-> ✏️ Programming Languages:
-> HTML                      2 hrs 00 mins      ██████████░░░░░░░░░░░░░░░   40.00 %
-> CSS                       1 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   30.00 %
-> JavaScript                1 hrs 00 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.00 %
-> Java                      0 hrs 30 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
-> Markdown                  1 hrs 00 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.00 %
->                                                                                 
-> 🔥 Editors: 
-> Visual Studio Code        3 hrs 30 mins      ██████████████████░░░░░░░   70.00 %
-> BlueJ                     1 hrs 00 mins      ████░░░░░░░░░░░░░░░░░░░░░   20.00 %
-> Typora                    1 hrs 00 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 %
->   
-> 📌 Projects: 
-> Better-Markdown          2 hrs 00 mins       ████████░░░░░░░░░░░░░░░░░   35.00 %
-> Portfolio                2 hrs 00 mins       ████████░░░░░░░░░░░░░░░░░   35.00 %
-> Profile                  1 hrs 00 mins       █████░░░░░░░░░░░░░░░░░░░░   25.00 %
-> Other                    1 hrs 00 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.00 %
-> ```
-
-<!--
-
-# 🏆 Star History
-> <img src="https://api.star-history.com/svg?repos=divyanshudhruv/divyanshudhruv&type=Date"  width="775px" height="520px">
-
--->
