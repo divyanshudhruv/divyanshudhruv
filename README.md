@@ -1,5 +1,3 @@
----
-
 <img src="https://s6.ezgif.com/tmp/ezgif-6-f474f85eec.gif">
 
 ---
