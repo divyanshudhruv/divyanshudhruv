@@ -138,20 +138,24 @@
 
 </details>
 
+
 <details>
   <summary><h3>⌚ Github Stats</h3></summary>
 
 <br>
+
 <details><summary><h4>🔥 Stats</h3></summary>
 
   <br>
   
-> <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshudhruv" alt="divyanshudhruv" /></p>
+> ![divyanshudhruv's Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyanshudhruv&theme=vue-dark&hide_border=true)
+
 
 <br>
 
-> <img  src="https://github-readme-stats.vercel.app/api?username=divyanshudhruv&show_icons=true&locale=en&include_all_commits=true" alt="divyanshudhruv" width="495px"/>
->   <br>
+> ![divyanshudhruv's Stats](https://github-readme-stats.vercel.app/api?username=divyanshudhruv&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+
+ <br>
 
 </details>
 
@@ -159,11 +163,12 @@
 
   <br>
   
->  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshudhruv&hide_progress=true">
+>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshudhruv&hide_progress=true&theme=vue-dark&hide_border=true">
+
+
 <br>
 </details>
 </details>
-
 <details>
   <summary><h3>🪄 Top Repositories</h3></summary>
 
