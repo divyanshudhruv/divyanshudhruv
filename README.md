@@ -1,7 +1,5 @@
-<img src="img/code.gif">
+<!--<img src="img/code.gif">-->
 
-            <i class="devicon-html5-plain colored"></i>
-          
 ---
 
 <br>
@@ -19,19 +17,15 @@
 <h1><b>🫥 About Me</b></h3>
  
 <p align="left">
-<br>
 
 > ⚒️ I’m currently working on **SAAS application**
 
-<br>
 
 > 🌱 I’m currently learning about **Database**
 
-<br>
 
 > ⚡ Fun fact: **I love to play Guitar** 
 
-  <br>
   
 > 📫 Find Me: **Github** , **Discord** , **Codepen** , **Dribbble**
 
@@ -44,11 +38,7 @@
 
 > **📍** [**Minifolio**](https://github.com/divyanshudhruv/Minifolio): A minimal portfolio template for developers
 
- <br>
-
 > **🤖** [**Portfolio**](https://github.com/divyanshudhruv/divyanshudhruv.github.io): My personal portfolio
-
- <br>
  
  > **🚩** [**Better-Markdown**](https://github.com/divyanshudhruv/Better-Markdown): Tips for markdown
 
@@ -58,7 +48,8 @@
 <h1><b>🔦 Tech and Tools</b></h1>
 
 <br>
-<h3><b>🕹️ Frontend Development</b></h4></summary>
+
+> 🕹️ Frontend Development
   <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -82,7 +73,7 @@
 
 ###
 
-<h3><b>🧪 Programming Languages</b></h4>
+> 🧪 Programming Languages
 <div align="left"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="20" />
@@ -100,7 +91,7 @@
 
 ###
 
-<h3><b>📌 Terminals</h4></b>
+> 📌 Terminals
 <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
@@ -117,7 +108,7 @@
 
 ###
 
-<h3><b>☢️ Framework</h4></b>
+> ☢️ Framework
 <br>
 <div align="left">   
   <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" height="40"></img>
@@ -131,7 +122,6 @@
 <img src="https://devicon-website.vercel.app/api/flutter/original.svg" height="40"></img><img width="20" />
 <img src="https://devicon-website.vercel.app/api/ionic/original.svg" height="40"></img><img width="20" />
 <img src="https://devicon-website.vercel.app/api/eslint/original.svg" height="40"></img><img width="20" />
-<img width="20" />
 <img src="https://devicon-website.vercel.app/api/nextjs/original.svg" height="40"></img><img width="20" />
 
 </div>
@@ -139,7 +129,7 @@
 
 ###
 
-<h3><b>🔒 Database</b></h4>
+> 🔒 Database
   <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
@@ -158,7 +148,7 @@
 
 ###
 
-<h3><b>🖌️ Designing</b></h4>
+> 🖌️ Designing
   <br>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
@@ -171,15 +161,12 @@
 
 ###
 
-<h3><b>🚀 Others</b></h4>
+> 🚀 Others
   <br>
 <div align="left">
  <img src="https://devicon-website.vercel.app/api/arduino/original.svg" height="40"></img>
 <img width="20" />
-<img src="https://devicon-website.vercel.app/api/raspberrypi/original.svg" height="40"></img><img width="20" />
 <img src="https://devicon-website.vercel.app/api/gitlab/original.svg" height="40"></img><img width="20" />
-<img src="https://devicon-website.vercel.app/api/codepen/plain.svg" height="40"></img><img width="20" />
-<img src="https://devicon-website.vercel.app/api/jetbrains/original.svg" height="40"></img><img width="20" />
 
 
     
@@ -191,33 +178,12 @@
 
 <br>
   
-![](https://github-readme-stats.vercel.app/api?username=divyanshudhruv&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)
+> ![](https://github-readme-stats.vercel.app/api?username=divyanshudhruv&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)
 
 <br>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=divyanshudhruv&theme=vue-dark&hide_border=false)
+> ![](https://github-readme-streak-stats.herokuapp.com/?user=divyanshudhruv&theme=vue-dark&hide_border=false)
 
  <br>
   
 >  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshudhruv&hide_progress=true&theme=vue-dark&hide_border=false">
-
-
-<br>
-
-  <h1>🪄 Top Repositories</h1>
-
-<br>
-
-> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divyanshudhruv&repo=Minifolio&show_owner=true)](https://github.com/divyanshudhruv/Minifolio)
-
- <br>
-
-> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divyanshudhruv&repo=Better-Markdown&show_owner=true)](https://github.com/divyanshudhruv/Better-Markdown)
-
-
-> [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divyanshudhruv&repo=divyanshudhruv.github.io&show_owner=fasle)](https://github.com/divyanshudhruv/divyanshudhruv.github.io)
-
-  <br>
-  
-
-<br>
