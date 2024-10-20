@@ -21,7 +21,7 @@
 <p align="left">
 <br>
 
-> ⚒️ I’m currently working on **Snippet Generator**
+> ⚒️ I’m currently working on **SAAS application**
 
 <br>
 
@@ -73,7 +73,7 @@
   <img width="20" />
   <img src="https://devicon-website.vercel.app/api/sass/original.svg" height="40"></img>
   <img width="20" />
-
+<img src="https://devicon-website.vercel.app/api/markdown/original.svg" height="40"></img><img width="20" />
 
 
 
@@ -107,7 +107,9 @@
     <img width="20px" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
       <img width="20px" />
-  <img src="https://devicon-website.vercel.app/api/bash/original.svg" height="40"></img>
+  <img src="https://devicon-website.vercel.app/api/bash/original.svg" height="40"></img><img width="20" />
+  <img src="https://devicon-website.vercel.app/api/git/original.svg" height="40"></img>
+
 
 </div>
 <br>
@@ -125,6 +127,12 @@
       <img width="20px" />
       <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" height="40"></img>
   <img width="20" />
+<img src="https://devicon-website.vercel.app/api/discordjs/original.svg" height="40"></img><img width="20" />
+<img src="https://devicon-website.vercel.app/api/flutter/original.svg" height="40"></img><img width="20" />
+<img src="https://devicon-website.vercel.app/api/ionic/original.svg" height="40"></img><img width="20" />
+<img src="https://devicon-website.vercel.app/api/eslint/original.svg" height="40"></img><img width="20" />
+<img width="20" />
+<img src="https://devicon-website.vercel.app/api/nextjs/original.svg" height="40"></img><img width="20" />
 
 </div>
 <br>
@@ -142,7 +150,10 @@
   <img width="20" />
 <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="40">
   <img width="20" />
+<img src="https://devicon-website.vercel.app/api/mongodb/original.svg" height="40"></img><img width="20" />
 <img src="https://devicon-website.vercel.app/api/mysql/original.svg" height="40"></img>
+             
+
 </div><br>
 
 ###
@@ -160,23 +171,22 @@
 
 ###
 
-<h3><b>🚀 Other</b></h4>
+<h3><b>🚀 Others</b></h4>
   <br>
 <div align="left">
  <img src="https://devicon-website.vercel.app/api/arduino/original.svg" height="40"></img>
 <img width="20" />
-<img src="https://devicon-website.vercel.app/api/appwrite/original.svg" height="40"></img>
-<img width="20" />
+<img src="https://devicon-website.vercel.app/api/raspberrypi/original.svg" height="40"></img><img width="20" />
+<img src="https://devicon-website.vercel.app/api/gitlab/original.svg" height="40"></img><img width="20" />
+<img src="https://devicon-website.vercel.app/api/codepen/plain.svg" height="40"></img><img width="20" />
+<img src="https://devicon-website.vercel.app/api/jetbrains/original.svg" height="40"></img><img width="20" />
 
-<img src="https://devicon-website.vercel.app/api/codepen/plain.svg"></img>
-<img src="https://devicon-website.vercel.app/api/digitalocean/original.svg"></img>
-<img src="https://devicon-website.vercel.app/api/discordjs/original.svg"></img>
-<img src="https://devicon-website.vercel.app/api/eslint/original.svg"></img>
 
     
   
 <br>
 
+<br>
 <h1>⌚ Github Stats</h3>
 
 <br>
