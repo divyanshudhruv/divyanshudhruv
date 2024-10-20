@@ -1,7 +1,5 @@
 <!--<img src="img/code.gif">-->
 
-<br>
-
 <p align="left"><h1><p align="left">𝗛𝗶, 👋🏻 𝗜'𝗺 𝗗𝗶𝘃𝘆𝗮𝗻𝘀𝗵𝘂 𝗗𝗵𝗿𝘂𝘃 </p></h1></p>
 <font align="left" ><code>&nbsp;Just a coder ✌🏻</code></font>
   <br><br>
