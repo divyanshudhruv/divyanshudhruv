@@ -45,68 +45,25 @@
 
 <br>
 
-> 🕹️ Frontend Development
-  <br>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="20" />
-    <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="20" />
-  <img src="https://devicon-website.vercel.app/api/bulma/plain.svg" height="40"></img>
-  <img width="20" />
-  <img src="https://devicon-website.vercel.app/api/sass/original.svg" height="40"></img>
-  <img width="20" />
-<img src="https://devicon-website.vercel.app/api/markdown/original.svg" height="40"></img><img width="20" />
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /><img width="20"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /><img width="20" /><img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  /> <img width="20" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /><img width="20" /><img src="https://devicon-website.vercel.app/api/bulma/plain.svg" height="40"></img><img width="20" /><img src="https://devicon-website.vercel.app/api/sass/original.svg" height="40"></img><img width="20" /><img src="https://devicon-website.vercel.app/api/markdown/original.svg" height="40"></img><img width="20" />
 
-
-
-  <br>
-</div>
 
 ###
 
-> 🧪 Programming Languages
-<div align="left"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://devicon-website.vercel.app/api/typescript/original.svg" height="40"></img>
-    <img width="20" />
-<img src="https://devicon-website.vercel.app/api/dart/original.svg" height="40"></img>
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="20" />
-  <img src="https://devicon-website.vercel.app/api/python/original.svg"height="40"></img>
-  <img width="20" />
-  <img src="https://devicon-website.vercel.app/api/numpy/original.svg" height="40"></img>
-  </div>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /><img width="20" /><img src="https://devicon-website.vercel.app/api/typescript/original.svg" height="40"></img><img width="20" /><img src="https://devicon-website.vercel.app/api/dart/original.svg" height="40"></img> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /> <img width="20" /><img src="https://devicon-website.vercel.app/api/numpy/original.svg" height="40"></img>
+  
   <br>
 
 ###
 
-> 📌 Terminals
-<br>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-    <img width="20px" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-      <img width="20px" />
-  <img src="https://devicon-website.vercel.app/api/bash/original.svg" height="40"></img><img width="20" />
-  <img src="https://devicon-website.vercel.app/api/git/original.svg" height="40"></img>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />  <img width="20px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  /><img width="20px" /><img src="https://devicon-website.vercel.app/api/bash/original.svg" height="40"></img><img width="20" /><img src="https://devicon-website.vercel.app/api/git/original.svg" height="40"></img>
 
-
-</div>
 <br>
 
 
 ###
 
-> ☢️ Framework
-<br>
-<div align="left">   
+> 
   <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" height="40"></img>
     <img width="20px" />
  
