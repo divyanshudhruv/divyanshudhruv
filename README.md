@@ -15,10 +15,10 @@
 
 > Just a simple coder
 
+<br>
 
 
-
-<h1><b>🫥 About Me</b></h3>
+<h1><b>🪪 About Me</b></h3>
  
 <p align="left">
 
