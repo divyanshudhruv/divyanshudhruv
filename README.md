@@ -5,6 +5,9 @@
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="160px" height="29.4px"> &nbsp;&nbsp;
+ 
+ [![forthebadge](https://forthebadge.com/images/featured/featured-compatibility-betamax.svg)](https://forthebadge.com)
+ 
  <img src="img/built with.svg" height = "29.4px" width="160px"> &nbsp;&nbsp;&nbsp; 
 
  <br>
