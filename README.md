@@ -1,14 +1,16 @@
 <!--<img src="img/code.gif">-->
 
-<p align="left"><h1><p align="left">𝗛𝗶, 👋🏻 𝗜'𝗺 𝗗𝗶𝘃𝘆𝗮𝗻𝘀𝗵𝘂 𝗗𝗵𝗿𝘂𝘃 </p></h1></p>
+<h1><p align="left">𝗛𝗶, 👋🏻 𝗜'𝗺 𝗗𝗶𝘃𝘆𝗮𝗻𝘀𝗵𝘂 𝗗𝗵𝗿𝘂𝘃 </p></h1>
 <font align="left" ><code>&nbsp;Just a coder ✌🏻</code></font>
-  <br><br>
+ <!--
+ <br><br>
 <br>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="190px" height="34.4px"> &nbsp;&nbsp;&nbsp; 
- <img src="img/built with.svg" > &nbsp;&nbsp;&nbsp; <img src="img/uses-markdown.svg"> &nbsp;&nbsp;&nbsp; <img src="img/Stars.svg">&nbsp;&nbsp;&nbsp;</p>
+ <img src="img/built with.svg" > &nbsp;&nbsp;&nbsp; <img src="img/uses-markdown.svg"> &nbsp;&nbsp;&nbsp; <img src="img/Stars.svg">&nbsp;&nbsp;&nbsp;</p>-->
+ 
 
-<br>
+
+
 
 <h1><b>🫥 About Me</b></h3>
  
@@ -77,8 +79,9 @@
 
 <br>
 
- > ![](https://github-readme-streak-stats.herokuapp.com/?user=divyanshudhruv&theme=vue-dark&hide_border=false)
+> ![](https://github-readme-streak-stats.herokuapp.com/?user=divyanshudhruv&theme=vue-dark&hide_border=false)
  
 > ![](https://github-readme-stats.vercel.app/api?username=divyanshudhruv&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)
   
-<!-->  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshudhruv&hide_progress=true&theme=vue-dark&hide_border=false">-->
+<!--
+>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshudhruv&hide_progress=true&theme=vue-dark&hide_border=false">-->
