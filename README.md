@@ -4,9 +4,10 @@
  
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="160px" height="29.4px"> &nbsp;&nbsp;<img src="/img/image.svg" height = "29.4px" width="160px"> &nbsp;&nbsp;&nbsp; 
+<p align="left"> 
+ <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="180px" height="29.4px"><img src="/img/image.svg" height = "29.4px" width="150px"><img src="/img/uses-md.svg" height = "29.4px" width="90px"> &nbsp;<img src="https://hit.yhype.me/github/profile?user_id=71079602">
 </p>
- <br>
+
  <br>
  
  <!-- <img src="img/uses-markdown.svg"> &nbsp;&nbsp;&nbsp; <img src="img/Stars.svg">&nbsp;&nbsp;&nbsp;</p> -->
@@ -53,11 +54,11 @@
 
 <br>
 
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /><img width="20"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /><img width="20" /><img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  /> <img width="20" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /><img width="20" /><img src="https://devicon-website.vercel.app/api/bulma/plain.svg" height="40"></img><img width="20" />
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /><img width="20"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /><img width="20" /><img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  /> <img width="20" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /><img width="20" /><img src="https://devicon-website.vercel.app/api/typescript/original.svg" height="40">
 
 
 
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /><img width="20" /><img src="https://devicon-website.vercel.app/api/typescript/original.svg" height="40"></img><img width="20" /><img src="https://devicon-website.vercel.app/api/dart/original.svg" height="40"></img> <img width="20" /><img src="https://devicon-website.vercel.app/api/numpy/original.svg" height="40"></img>
+> 
 
 
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />  <img width="20px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  /><img width="20" /><img src="https://devicon-website.vercel.app/api/git/original.svg" height="40"></img><img  width="20"><img src="https://devicon-website.vercel.app/api/arduino/original.svg" height="40"></img><img width="20" /><img src="https://devicon-website.vercel.app/api/gitlab/original.svg" height="40"></img><img width="20" />
