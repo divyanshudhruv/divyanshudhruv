@@ -1,6 +1,6 @@
 <!--<img src="img/code.gif">-->
 
-<h1><p align="left">𝗛𝗶, 👋🏻 𝗜'𝗺 𝗗𝗶𝘃𝘆𝗮𝗻𝘀𝗵𝘂 𝗗𝗵𝗿𝘂𝘃 </p></h1>
+<h1><p align="left">Hi, I am Divyanshu Dhruv </p></h1>
  
 <br>
 
