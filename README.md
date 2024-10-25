@@ -1,11 +1,11 @@
 <!--<img src="img/code.gif">-->
 
-<h1><p align="left">Hi, I am Divyanshu Dhruv </p></h1>
+<h1><p align="left">Hi, I am Divyanshu Dhruv 👋 </p></h1>
  
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="190px" height="34.4px"> &nbsp;&nbsp;&nbsp; 
- <img src="img/built with.svg" > &nbsp;&nbsp;&nbsp; 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="160px" height="29.4px"> &nbsp;&nbsp;
+ <img src="img/built with.svg" height = "29.4px" width="160px"> &nbsp;&nbsp;&nbsp; 
 
  <br>
  <br>
