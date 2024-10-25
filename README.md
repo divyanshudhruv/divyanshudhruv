@@ -89,9 +89,9 @@
 
 <br>
 
-> ![](https://github-readme-streak-stats.herokuapp.com/?user=divyanshudhruv&theme=vue-dark&hide_border=false)
+> ![](https://github-readme-streak-stats.herokuapp.com/?user=divyanshudhruv&theme=vue-dark&hide_border=true)
  
-> ![](https://github-readme-stats.vercel.app/api?username=divyanshudhruv&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)
+> ![](https://github-readme-stats.vercel.app/api?username=divyanshudhruv&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false)
   
 <!--
 >  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshudhruv&hide_progress=true&theme=vue-dark&hide_border=false">-->
