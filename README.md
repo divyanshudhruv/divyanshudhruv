@@ -48,95 +48,37 @@
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /><img width="20"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /><img width="20" /><img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  /> <img width="20" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  /><img width="20" /><img src="https://devicon-website.vercel.app/api/bulma/plain.svg" height="40"></img><img width="20" /><img src="https://devicon-website.vercel.app/api/sass/original.svg" height="40"></img><img width="20" /><img src="https://devicon-website.vercel.app/api/markdown/original.svg" height="40"></img><img width="20" />
 
 
-###
 
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /><img width="20" /><img src="https://devicon-website.vercel.app/api/typescript/original.svg" height="40"></img><img width="20" /><img src="https://devicon-website.vercel.app/api/dart/original.svg" height="40"></img> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  /> <img width="20" /><img src="https://devicon-website.vercel.app/api/numpy/original.svg" height="40"></img>
-  
-  <br>
-
-###
-
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />  <img width="20px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  /><img width="20px" /><img src="https://devicon-website.vercel.app/api/bash/original.svg" height="40"></img><img width="20" /><img src="https://devicon-website.vercel.app/api/git/original.svg" height="40"></img>
-
-<br>
 
 
-###
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />  <img width="20px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  /><img width="20" /><img src="https://devicon-website.vercel.app/api/git/original.svg" height="40"></img><img  width="20"><img src="https://devicon-website.vercel.app/api/arduino/original.svg" height="40"></img><img width="20" /><img src="https://devicon-website.vercel.app/api/gitlab/original.svg" height="40"></img><img width="20" />
 
-> 
-  <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" height="40"></img>
-    <img width="20px" />
- 
-  <img src="https://avatars.githubusercontent.com/u/76870092?s=280&v=4" height="40">
-      <img width="20px" />
-      <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" height="40"></img>
-  <img width="20" />
-<img src="https://devicon-website.vercel.app/api/discordjs/original.svg" height="40"></img><img width="20" />
-<img src="https://devicon-website.vercel.app/api/flutter/original.svg" height="40"></img><img width="20" />
-<img src="https://devicon-website.vercel.app/api/ionic/original.svg" height="40"></img><img width="20" />
-<img src="https://devicon-website.vercel.app/api/eslint/original.svg" height="40"></img><img width="20" />
-<img src="https://devicon-website.vercel.app/api/nextjs/original.svg" height="40"></img><img width="20" />
 
-</div>
-<br>
 
-###
+> <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" height="40"></img><img width="20px" /><img src="https://avatars.githubusercontent.com/u/76870092?s=280&v=4" height="40">    <img width="20px" />    <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" height="40"></img> <img width="20" /><img src="https://devicon-website.vercel.app/api/flutter/original.svg" height="40"></img><img width="20" /><img src="https://devicon-website.vercel.app/api/ionic/original.svg" height="40"></img><img width="20" /><img src="https://devicon-website.vercel.app/api/eslint/original.svg" height="40"></img><img width="20" />
 
-> 🔒 Database
-  <br>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg" height="40" alt="couchdb logo"  />  
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />  
-  <img width="20" />
-<img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="40">
-  <img width="20" />
-<img src="https://devicon-website.vercel.app/api/mongodb/original.svg" height="40"></img><img width="20" />
-<img src="https://devicon-website.vercel.app/api/mysql/original.svg" height="40"></img>
+
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  /><img width="20" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg" height="40" alt="couchdb logo"  />  <img width="20" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  /> <img width="20" /><img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="40">  <img width="20" /><img src="https://devicon-website.vercel.app/api/mongodb/original.svg" height="40"></img><img width="20" /><img src="https://devicon-website.vercel.app/api/mysql/original.svg" height="40"></img>
              
 
-</div><br>
 
-###
 
-> 🖌️ Designing
-  <br>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-    <img width="20" />
-  <img src="https://devicon-website.vercel.app/api/canva/original.svg" height="40"></img>
-<img  width="20">
-  <img src="https://github.com/user-attachments/assets/f2dee293-eabc-449b-a41c-902deb45c2f9" height="40">
-</div>
-<br>
+> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />  <img width="20" /> <img src="https://devicon-website.vercel.app/api/canva/original.svg" height="40"></img><img  width="20">  <img src="https://github.com/user-attachments/assets/f2dee293-eabc-449b-a41c-902deb45c2f9" height="40">
 
-###
 
-> 🚀 Others
-  <br>
-<div align="left">
- <img src="https://devicon-website.vercel.app/api/arduino/original.svg" height="40"></img>
-<img width="20" />
-<img src="https://devicon-website.vercel.app/api/gitlab/original.svg" height="40"></img><img width="20" />
 
 
     
   
-<br>
 
 <br>
 <h1>⌚ Github Stats</h3>
 
 <br>
-  
+
+ > ![](https://github-readme-streak-stats.herokuapp.com/?user=divyanshudhruv&theme=vue-dark&hide_border=false)
+ 
 > ![](https://github-readme-stats.vercel.app/api?username=divyanshudhruv&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false)
-
-<br>
-
-> ![](https://github-readme-streak-stats.herokuapp.com/?user=divyanshudhruv&theme=vue-dark&hide_border=false)
-
- <br>
   
->  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshudhruv&hide_progress=true&theme=vue-dark&hide_border=false">
+<!-->  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshudhruv&hide_progress=true&theme=vue-dark&hide_border=false">-->
