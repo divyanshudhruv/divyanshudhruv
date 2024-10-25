@@ -68,6 +68,8 @@
 > <img src="https://devicon-website.vercel.app/api/bootstrap/original.svg" height="40"></img><img width="20px" /><img src="https://avatars.githubusercontent.com/u/76870092?s=280&v=4" height="40">    <img width="20px" />    <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" height="40"></img> <img width="20" /><img src="https://devicon-website.vercel.app/api/flutter/original.svg" height="40"></img><img width="20" /><img src="https://devicon-website.vercel.app/api/eslint/original.svg" height="40"></img><img width="20" />
 
 
+<!--
+
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  /><img width="20" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg" height="40" alt="couchdb logo"  />  <img width="20" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  /> <img width="20" /><img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="40">  
              
 
@@ -75,6 +77,7 @@
 
 > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />  <img width="20" /> <img src="https://devicon-website.vercel.app/api/canva/original.svg" height="40"></img><img  width="20">  <img src="https://github.com/user-attachments/assets/f2dee293-eabc-449b-a41c-902deb45c2f9" height="40">
 
+-->
 
 
 
