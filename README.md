@@ -9,12 +9,17 @@
 </p>
 
  <br>
+
  
+ <br>
  <!-- <img src="img/uses-markdown.svg"> &nbsp;&nbsp;&nbsp; <img src="img/Stars.svg">&nbsp;&nbsp;&nbsp;</p> -->
  
 <h1><b>🙂 TL;DR</b></h3>
 
 > Just a simple coder
+
+>  `Profile Bio Last Updated: 6/11/2024 — 🔥 Likes To Code !`
+ 
 
 <br>
 
