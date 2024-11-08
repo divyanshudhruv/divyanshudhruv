@@ -5,7 +5,10 @@
 <br>
 
 <p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="180px" height="29.4px"><img src="/img/image.svg" height = "29.4px" width="150px"><img src="/img/uses-md.svg" height = "29.4px" width="90px"> &nbsp;<img src="https://hit.yhype.me/github/profile?user_id=71079602">
+ <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="180px" height="29.4px">
+ 
+ <!--<img src="/img/image.svg" height = "29.4px" width="150px"><img src="/img/uses-md.svg" height = "29.4px" width="90px"> &nbsp;<img src="https://hit.yhype.me/github/profile?user_id=71079602">
+-->
 </p>
 
  <br>
@@ -100,11 +103,19 @@
 
 <br>
 
+<h1>🛼 GitRoll</h1>
+<br>
+
+> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitroll.io/profile/u38pyVGtAAlSuyK7oXD4zQugQsal1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u38pyVGtAAlSuyK7oXD4zQugQsal1" alt="GitRoll Profile Badge"   width="430"/></a>
+<br>
+
 <h1>✨ Contribution</h3>
 
 <br>
 
 > <p align="left"><img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshudhruv&theme=one-dark"width="750"></p>
-  
+
+  <BR>
+
 <!--
 >  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshudhruv&hide_progress=true&theme=vue-dark&hide_border=false">-->
