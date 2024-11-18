@@ -102,12 +102,14 @@
 > <p  align="left"><img src="https://github-readme-stats.vercel.app/api?username=divyanshudhruv&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false" height="177" width="450"></p>
 
 <br>
-
+<!--
 <h1>🛼 GitRoll</h1>
 <br>
 
 > &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitroll.io/profile/u38pyVGtAAlSuyK7oXD4zQugQsal1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u38pyVGtAAlSuyK7oXD4zQugQsal1" alt="GitRoll Profile Badge"   width="430"/></a>
 <br>
+
+-->
 
 <h1>✨ Contribution</h3>
 
