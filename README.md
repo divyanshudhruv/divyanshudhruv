@@ -52,8 +52,11 @@
 > **📍** [**Minifolio**](https://github.com/divyanshudhruv/Minifolio): A minimal portfolio template for developers
 
 > **🤖** [**Portfolio**](https://github.com/divyanshudhruv/divyanshudhruv.github.io): My personal portfolio
+
+> **📁** [**Tidyfi**](https://github.com/divyanshudhruv/Tidyfi): A python file organizer
+
  
- > **🚩** [**Better-Markdown**](https://github.com/divyanshudhruv/Better-Markdown): Tips for markdown
+> **🚩** [**Better-Markdown**](https://github.com/divyanshudhruv/Better-Markdown): Tips for markdown
 
   <br>
   
