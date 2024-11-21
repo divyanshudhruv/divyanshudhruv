@@ -106,9 +106,10 @@
 
 
 <h1>🛼 GitRoll</h1>
-<br>
+<br>![image]()
 
-> &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://gitroll.io/profile/u38pyVGtAAlSuyK7oXD4zQugQsal1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/u38pyVGtAAlSuyK7oXD4zQugQsal1" alt="GitRoll Profile Badge"   width="430"/></a>
+
+> &nbsp;&nbsp;&nbsp;&nbsp;<a href="#" target="_blank"><img src="https://github.com/user-attachments/assets/13db1934-d82f-4292-a402-8fafdce6686e" alt="GitRoll Profile Badge"   width="430"/></a>
 <br>
 
 
