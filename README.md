@@ -106,10 +106,10 @@
 
 
 <h1>🛼 GitRoll</h1>
-<br>![image]()
+<br>
 
 
-> &nbsp;&nbsp;&nbsp;&nbsp;<a href="#" target="_blank"><img src="https://github.com/user-attachments/assets/13db1934-d82f-4292-a402-8fafdce6686e" alt="GitRoll Profile Badge"   width="430"/></a>
+> &nbsp;&nbsp;&nbsp;&nbsp;<a href="#" target="_blank"><img src="https://github.com/user-attachments/assets/13db1934-d82f-4292-a402-8fafdce6686e" alt="GitRoll Profile Badge"   width="390"/></a>
 <br>
 
 
