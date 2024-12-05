@@ -21,7 +21,7 @@
 
 > Just a simple coder
 
-> Also known as **`@01xd8`**
+<!--> Also known as **`@01xd8`**-->
 
 <!--
 >  `Profile Bio Last Updated: 7/11/2024 — ⚡ 16 y/o | ☕️ Front-End Developer 👨‍💻 | Passionate about AI and UI/UX ⛓❤️‍🔥 | 🕹️ Gamer | 🎸 Guitarist | 🙏 Let's go`-->
