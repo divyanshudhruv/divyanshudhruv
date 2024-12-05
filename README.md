@@ -1,6 +1,6 @@
 <!--<img src="img/code.gif">-->
 
-<h1><p align="left">Hi, I am Divyanshu Dhruv (aka 01xd8) 👋 </p></h1>
+<h1><p align="left">Hi, I am Divyanshu Dhruv  👋 </p></h1>
  
 <br>
 
@@ -20,6 +20,8 @@
 <h1><b>🙂 TL;DR</b></h3>
 
 > Just a simple coder
+
+> Also known as @01xd8 
 
 >  `Profile Bio Last Updated: 7/11/2024 — ⚡ 16 y/o | ☕️ Front-End Developer 👨‍💻 | Passionate about AI and UI/UX ⛓❤️‍🔥 | 🕹️ Gamer | 🎸 Guitarist | 🙏 Let's go`
  
