@@ -37,10 +37,10 @@
  
 <p align="left">
 
-> ⚒️ I’m currently working on **SAAS application**
+> ⚒️ I’m currently working on **[XediX](https://github.com/mostypc123/XediX)**
 
 
-> 🌱 I’m currently learning about **Data Structures and Algorithms**
+> 🌱 I’m currently learning about **Data Structure And Algorithms & Web3**
 
 
 > ⚡ Fun fact: **I love to play Guitar** 
