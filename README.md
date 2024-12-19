@@ -5,7 +5,7 @@
 <br>
 
 <p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="180px" height="29.4px"> <img src="img/uses-markdown.svg" width="140"> <img src="/img/image.svg" width="83.5px">
+ <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="180px" height="29.4px"> <img src="img/uses-markdown.svg" width="140"> <!--<img src="/img/image.svg" width="83.5px">-->
 
 
  
