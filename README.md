@@ -37,7 +37,7 @@
  
 <p align="left">
 
-> ⚒️ I’m currently working on **[XediX](https://github.com/mostypc123/XediX)**
+> ⚒️ I’m currently working on **[Gitfolio](https://github.com/divyanshudhruv/gitfolio)**
 
 
 > 🌱 I’m currently learning about **Data Structure And Algorithms & Web3**
