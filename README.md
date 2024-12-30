@@ -42,7 +42,9 @@
 
 > ⚡ Fun fact: **I love to play Guitar** 
 
-  
+>  😭 I miss **`2024`** 
+
+
 > 📫 Find Me: **Github** , **Discord** , **Codepen** , **Dribbble**
 
   <br>
