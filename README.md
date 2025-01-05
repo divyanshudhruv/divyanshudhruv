@@ -10,9 +10,7 @@
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="180px" height="29.4px"></p>
 
- <br>
- 
-    
+<br>
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
@@ -29,7 +27,6 @@
 ```
 -->
 
-<br>
 
 <p align="left">
 <h2 align="left"><b>😐 About me:</b></h2>
