@@ -24,28 +24,28 @@
 <p align="left">
 <h2><b>😐 About me:</b></h2>
 
-> ⚒️ I’m currently working on **[Gitfolio](https://github.com/divyanshudhruv/gitfolio)**
+- ⚒️ I’m currently working on **[Gitfolio](https://github.com/divyanshudhruv/gitfolio)**
 
-> 🌱 I’m currently learning about **Data Structure And Algorithms & Web3**
+- 🌱 I’m currently learning about **`DSA` & `Web3`**
 
-> ⚡ Fun fact: **I love to play Guitar** 
+ - ⚡ Fun fact: **I love to play `Guitar`** 
 
->  😭 I miss **`2024`** 
+-  😭 I miss **`2024`** 
 
-> 📫 Find Me: **Github** , **Discord** , **Codepen** , **Dribbble**
+- 📫 Find Me: **`Github`** , **`Discord`** , **`Codepen`** , **`Dev.to`**
 
  
   <br>
 
  <h2><b>🗃️ Projects</b></h2>
 
-> **📍** [**Minifolio**](https://github.com/divyanshudhruv/Minifolio): A minimal portfolio template for developers
+ - **📍** [**Minifolio**](https://github.com/divyanshudhruv/Minifolio): A `minimal` portfolio template for developers
 
-> **🤖** [**Portfolio**](https://github.com/divyanshudhruv/divyanshudhruv.github.io): My personal portfolio
+ - **🤖** [**Portfolio**](https://github.com/divyanshudhruv/divyanshudhruv.github.io): My personal `portfolio`
 
-> **📁** [**Tidyfi**](https://github.com/divyanshudhruv/Tidyfi): A python file organizer
+ - **📁** [**Tidyfi**](https://github.com/divyanshudhruv/Tidyfi): A python `file` organizer
 
-> **🚩** [**Better-Markdown**](https://github.com/divyanshudhruv/Better-Markdown): Tips for markdown
+- **🚩** [**Better-Markdown**](https://github.com/divyanshudhruv/Better-Markdown): `Tips` for markdown
 
  <br>
   
