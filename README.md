@@ -37,17 +37,6 @@
  
   <br>
 
- <h2><b>🗃️ Projects</b></h2>
-
- - **📍** [**Minifolio**](https://github.com/divyanshudhruv/Minifolio): A `minimal` portfolio template for developers
-
- - **🤖** [**Portfolio**](https://github.com/divyanshudhruv/divyanshudhruv.github.io): My personal `portfolio`
-
- - **📁** [**Tidyfi**](https://github.com/divyanshudhruv/Tidyfi): A python `file` organizer
-
-- **🚩** [**Better-Markdown**](https://github.com/divyanshudhruv/Better-Markdown): `Tips` for markdown
-
- <br>
   
  **<h2 align="left">💀 Skills</h2>**
 <table style="width: 100%; border: 0px solid white;">
@@ -131,6 +120,27 @@
 
 
 <br>
+
+<details>
+ <summary>
+ <h2><b>🗃️ Projects</b></h2></summary>
+
+ - **📍** [**Minifolio**](https://github.com/divyanshudhruv/Minifolio): A `minimal` portfolio template for developers
+
+ - **🤖** [**Portfolio**](https://github.com/divyanshudhruv/divyanshudhruv.github.io): My personal `portfolio`
+
+ - **📁** [**Tidyfi**](https://github.com/divyanshudhruv/Tidyfi): A python `file` organizer
+
+- **🚩** [**Better-Markdown**](https://github.com/divyanshudhruv/Better-Markdown): `Tips` for markdown
+</details>
+ <details>
+ <summary>
+ <h2><b>🪐 Gitroll</b></h2></summary>
+
+ <a href="#" target="_blank"><img src="https://github.com/user-attachments/assets/13db1934-d82f-4292-a402-8fafdce6686e" alt="GitRoll Profile Badge"   width="390"/></a>
+ 
+</details>
+ <br>
 
  **<h2 align="left">🤖 GitHub Stats</h2>**
 
