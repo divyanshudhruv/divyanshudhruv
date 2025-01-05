@@ -1,57 +1,37 @@
-<!--<img src="img/code.gif">-->
 
-<h1><p align="left">Hi, I am Divyanshu Dhruv 👋 </p></h1>
- 
+![img](img/code.gif)
+
 <br>
 
+`😋 Just a simple coder`
 
 <p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="180px" height="29.4px"> <img src="img/uses-markdown.svg" width="140"> <!--<img src="/img/image.svg" width="83.5px">-->
+ <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="180px" height="29.4px"></p>
 
-
+ <br>
  
+# 👋 Hi, I  am Divyanshu Dhruv
 
-
- </p>
- 
-<h1><b>🙂 TL;DR</b></h3>
-
-> Just a simple coder
-
-<!-- 
-> Also known as **`@01xd8`**
-
--->
-
-<!--
->  `Profile Bio Last Updated: 7/11/2024 — ⚡ 16 y/o | ☕️ Front-End Developer 👨‍💻 | Passionate about AI and UI/UX ⛓❤️‍🔥 | 🕹️ Gamer | 🎸 Guitarist | 🙏 Let's go`-->
- 
-
-<br>
-
-
-<h1><b>🪪 About Me</b></h3>
+**<h2 align="left">📬 Connect with me:</h2>** 
+<p align="left"> <a href="https://github.com/divyanshudhruv" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28"></a></p>
  
 <p align="left">
+<h2><b>🙂 About me:</b></h2>
 
 > ⚒️ I’m currently working on **[Gitfolio](https://github.com/divyanshudhruv/gitfolio)**
 
-
 > 🌱 I’m currently learning about **Data Structure And Algorithms & Web3**
-
 
 > ⚡ Fun fact: **I love to play Guitar** 
 
-
 >  😭 I miss **`2024`** 
-
 
 > 📫 Find Me: **Github** , **Discord** , **Codepen** , **Dribbble**
 
+ 
   <br>
-  </p>
 
-  <h1><b>📁 My Projects</b></h1>
+ <h2><b>📁 Projects</b></h2>
 
 <br>
 
@@ -66,70 +46,96 @@
 
   <br>
   
-
-<h1><b>🔦 Tech and Tools</b></h1>
+ **<h2 align="left">💀 Skills</h2>**
+<table style="width: 100%; border: 0px solid white;">
+  <tr>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=anaconda" height="40" alt="Anaconda" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="Obsidian" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=p5js" height="40" alt="P5.js" />
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=robloxstudio" height="40" alt="Roblox Studio" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="Three.js" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode" />
+    </td>
+    <td style="text-align: center; border: 0px; padding: 12px;">
+      <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  /><img width="20"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  /><img width="20" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  /><img width="20" /><img src="https://devicon-website.vercel.app/api/typescript/original.svg" height="40"><img width="20"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="html5 logo"  />
+ **<h2 align="left">🤖 GitHub Stats</h2>**
 
-
-
-> 
-
-
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />  <img width="20px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  /><img width="20" /><img src="https://devicon-website.vercel.app/api/git/original.svg" height="40"></img><img  width="20"><img src="https://devicon-website.vercel.app/api/arduino/original.svg" height="40"></img><img width="20" /><img src="https://devicon-website.vercel.app/api/gitlab/original.svg" height="40"></img><img width="20" />
-
-
-
-> <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  /> <img width="20" /><img src="https://avatars.githubusercontent.com/u/76870092?s=280&v=4" height="40">    <img width="20px" />    <img src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg" height="40"></img> <img width="20" /><img src="https://devicon-website.vercel.app/api/flutter/original.svg" height="40"></img><img width="20" /><img src="https://devicon-website.vercel.app/api/eslint/original.svg" height="40"></img><img width="20" />
-
-
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=divyanshudhruv&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=divyanshudhruv&theme=react&hide_border=false&date_format=M+j%5B%2C+Y%5D&mode=daily&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&card_height=200" alt="GitHub streak Card" />
+</p>
 <!--
-
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  /><img width="20" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg" height="40" alt="couchdb logo"  />  <img width="20" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  /> <img width="20" /><img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="40">  
-             
-
-
-
-> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />  <img width="20" /> <img src="https://devicon-website.vercel.app/api/canva/original.svg" height="40"></img><img  width="20">  <img src="https://github.com/user-attachments/assets/f2dee293-eabc-449b-a41c-902deb45c2f9" height="40">
-
--->
-
-
-
-    
-  
-
-<br>
-<h1>⌚ Github Stats</h3>
-
-<br>
-  
-> <p  align="left"><img src="https://github-readme-stats.vercel.app/api?username=divyanshudhruv&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false" height="177" width="450"></p>
-
-> &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshudhruv&theme=vue-dark&hide_border=true"  width="450" height="195">
-
-<br>
-
-
-
-<h1>🛼 GitRoll</h1>
-<br>
-
-
-> &nbsp;&nbsp;&nbsp;&nbsp;<a href="#" target="_blank"><img src="https://github.com/user-attachments/assets/13db1934-d82f-4292-a402-8fafdce6686e" alt="GitRoll Profile Badge"   width="390"/></a>
-<br>
-
-
-
-<h1>✨ Contribution</h3>
-
-<br>
-
-> <p align="left"><img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshudhruv&theme=one-dark"width="750"></p>
-
-  <BR>
-
-<!--
->  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshudhruv&hide_progress=true&theme=vue-dark&hide_border=false">-->
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshudhruv&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=divyanshudhruv&repo=Minifolio&&theme=react&hide_title=false&layout=compact&langs_count=9&hide_progress=false&card_width=400&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" />
+</p>-->
