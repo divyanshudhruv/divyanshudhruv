@@ -3,15 +3,25 @@
 
 <br>
 
-**`😋 Just a simple coder`**
+```markdown
+😋 Just a simple coder
+```
 
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="180px" height="29.4px"></p>
 
  <br>
  
-# 👋 Hi, I  am Divyanshu Dhruv
-
+    
+<div id="toc">
+  <ul align="left" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, I'm Divyanshu Dhruv
+      </h1>
+    </summary>
+  </ul>
+</div>
 <!--
 ```markdown
 📬 Connect with me:
@@ -22,7 +32,7 @@
 <br>
 
 <p align="left">
-<h2><b>😐 About me:</b></h2>
+<h2 align="left"><b>😐 About me:</b></h2>
 
 - ⚒️ I’m currently working on **[Gitfolio](https://github.com/divyanshudhruv/gitfolio)**
 
