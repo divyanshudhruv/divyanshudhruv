@@ -31,7 +31,7 @@
 <p align="left">
 <h2 align="left"><b>😐 About me:</b></h2>
 
-- ⚒️ I’m currently working on **[Strix](#)**
+- ⚒️ I’m currently working on **[Strix](https://github.com/divyanshudhruv/strix-ai)**
 
 - 🌱 I’m currently learning about **`DSA` & `Web3`**
 
