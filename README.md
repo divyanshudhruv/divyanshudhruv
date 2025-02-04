@@ -63,14 +63,14 @@
       <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="Three.js" />
-    </td>
+      <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="Three.js" /></td>
     <td style="text-align: center; border: 0px; padding: 12px;">
       <img src="https://skillicons.dev/icons?i=p5js" height="40" alt="P5.js" />
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
       <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
     </td>
+     </tr><tr>  
     <td style="text-align: center; border: 0px; padding: 12px;">
       <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
     </td>
@@ -83,8 +83,6 @@
     <td style="text-align: center; border: 0px; padding: 12px;">
       <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase" />
     </td>
-   </tr>
- <tr>
     <td style="text-align: center; border: 0px; padding: 12px;">
       <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
     </td>
@@ -97,13 +95,15 @@
     <td style="text-align: center; border: 0px; padding: 12px;">
       <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="Obsidian" />
     </td>
+   </tr>
+ <tr>  
     <td style="text-align: center; border: 0px; padding: 12px;">
       <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
       <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" />
     </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
+  <td style="text-align: center; border: 0px; padding: 12px;">
       <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ" />
     </td>
     <td style="text-align: center; border: 0px; padding: 12px;">
