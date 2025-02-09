@@ -131,15 +131,19 @@
  <summary>
  <h2><b>🗃️ Projects</b></h2></summary>
 
- - **📍** [**Minifolio**](https://github.com/divyanshudhruv/Minifolio): A `minimal` portfolio template for developers
- 
+- **⛓️‍💥** [**Eeon**](https://github.com/divyanshudhruv/eeon): An `AI assistant` for emoticons.
+
  -  **🤖** [**Gitfolio**](https://github.com/divyanshudhruv/gitfolio): A `dynamic` github profile card generator
- 
+
+ - **✈️** [**Strix-ai**](https://github.com/divyanshudhruv/strix-ai): Easy `Delocalization`, fast and secure. 
+
  - **⚡** [**Gitlog**](https://github.com/divyanshudhruv/gitlog): A list of common `git commit messages` for version control 
 
- - **🔮** [**Portfolio**](https://github.com/divyanshudhruv/divyanshudhruv.github.io): My personal `portfolio`
-
  - **📁** [**Tidyfi**](https://github.com/divyanshudhruv/Tidyfi): A python `file` organizer
+
+ - **📍** [**Minifolio**](https://github.com/divyanshudhruv/Minifolio): A `minimal` portfolio template for developers
+ 
+ - **🔮** [**Portfolio**](https://github.com/divyanshudhruv/divyanshudhruv.github.io): My personal `portfolio`
 
 - **🚩** [**Better-Markdown**](https://github.com/divyanshudhruv/Better-Markdown): `Tips` for markdown
 </details>
