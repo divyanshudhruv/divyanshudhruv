@@ -30,7 +30,7 @@
 <p align="left">
 <h2 align="left"><b>😐 About me:</b></h2>
 
-- ⚒️ I’m currently working on **[eeon](https://github.com/divyanshudhruv/eeon)**
+- ⚒️ I’m currently working on **[hellolink](https://github.com/divyanshudhruv/hellolink)**
 
 - 🌱 I’m currently learning about **`DSA` & `Web3`**
 
@@ -130,6 +130,8 @@
 <details>
  <summary>
  <h2><b>🗃️ Projects</b></h2></summary>
+
+- **🔗** [**HelloLink**](https://github.com/divyanshudhruv/hellolink): Say `Hello` to your links, all in one place.
 
 - **⛓️‍💥** [**Eeon**](https://github.com/divyanshudhruv/eeon): An `AI assistant` for emoticons.
 
