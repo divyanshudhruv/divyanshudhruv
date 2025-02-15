@@ -139,7 +139,7 @@
 
  - **✈️** [**Strix-ai**](https://github.com/divyanshudhruv/strix-ai): Easy `Delocalization`, fast and secure. 
 
-- **💳** [**Pocket Vault**](https://github.com/divyanshudhruv/pocketvault): A developer's vault for storing most used npm packages, deployments, snippets, repos, tools etc. 
+- **💳** [**Pocket Vault**](https://github.com/divyanshudhruv/pocket-vault): A developer's vault for storing most used npm packages, deployments, snippets, repos, tools etc. 
 
  - **⚡** [**Gitlog**](https://github.com/divyanshudhruv/gitlog): A list of common `git commit messages` for version control 
 
