@@ -131,7 +131,7 @@
  <summary>
  <h2><b>🗃️ Projects</b></h2></summary>
 
-- **🔗** [**ONGOING: RegexSimplify**](https://github.com/divyanshudhruv/#): A simple package to simplify regex using chainable APIs.
+- **🔗** [**ONGOING: RegexSimplify**](https://github.com/divyanshudhruv/#): A simple `package` to simplify regex using chainable APIs.
 
 - **🔗** [**STOPPED: SayHalo**](https://github.com/divyanshudhruv/sayhalo-slm): An `AI powered` SLM aggregator.
 
