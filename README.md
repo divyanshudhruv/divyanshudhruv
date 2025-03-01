@@ -30,7 +30,7 @@
 <p align="left">
 <h2 align="left"><b>😐 About me:</b></h2>
 
-- ⚒️ I’m currently working on **[SayHalo](https://github.com/divyanshudhruv/sayhalo-slm)**
+- ⚒️ I’m currently working on **[Next-Bench](#)**
 
 - 🌱 I’m currently learning about **`DSA` & `Web3`**
 
