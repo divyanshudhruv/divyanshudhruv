@@ -30,7 +30,7 @@
 <p align="left">
 <h2 align="left"><b>😐 About me:</b></h2>
 
-- ⚒️ I’m currently working on **[Next Bench](https://next-bench-dev.vercel.app)**
+- ⚒️ I’m currently working on **[Next Bench](https://next-bench-dev.vercel.app/?ref=github/divyanshudhruv)** ✨
 
 - 🌱 I’m currently learning about **`DSA` & `Web3`**
 
@@ -131,7 +131,7 @@
  <summary>
  <h2><b>🗃️ Projects</b></h2></summary>
 
-- **🔗** [**Next-Bench - Sonamii**](https://next-bench-dev.vercel.app/?ref=github.divyanshudhruv): A user-friendly `web application` that helps students to find the best institutions near them.
+- **🔗** [**Next-Bench - Sonamii**](https://next-bench-dev.vercel.app/?ref=github/divyanshudhruv): A user-friendly `web application` that helps students to find the best institutions near them.
 
 - **🔗** [**ONGOING: RegexSimplify**](https://github.com/divyanshudhruv/#): A simple `package` to simplify regex using chainable APIs.
 
