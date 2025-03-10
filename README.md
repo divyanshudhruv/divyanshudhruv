@@ -30,7 +30,7 @@
 <p align="left">
 <h2 align="left"><b>😐 About me:</b></h2>
 
-- ⚒️ I’m currently working on **[Nexoq](#)**
+- ⚒️ I’m currently working on **[Next Bench](https://next-bench-dev.vercel.app)**
 
 - 🌱 I’m currently learning about **`DSA` & `Web3`**
 
