@@ -7,8 +7,11 @@
 ```
 
 <p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="180px" height="29.4px"></p>
+ <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="180px" height="29.4px">
 
+<b>`Thankyou for 100 followers :)`</b>
+
+</p>
 <br>
 <div id="toc">
   <ul align="left" style="list-style: none">
