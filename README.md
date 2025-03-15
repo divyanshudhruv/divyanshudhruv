@@ -134,13 +134,15 @@
  <summary>
  <h2><b>🗃️ Projects</b></h2></summary>
 
-- **🔗** [**Next-Bench - Sonamii**](https://next-bench-dev.vercel.app/?ref=github/divyanshudhruv): A user-friendly `web application` that helps students to find the best institutions near them.
+- **🌊** [**DataDiver-AI**](https://datadiver-ai.vercel.app/):  The ultimate tool for web scraping, `transforming` unstructured websites into clean JSON.
 
-- **🔗** [**ONGOING: RegexSimplify**](https://github.com/divyanshudhruv/#): A simple `package` to simplify regex using chainable APIs.
+- **🪑** [**Next-Bench - Sonamii**](https://next-bench-dev.vercel.app/?ref=github/divyanshudhruv): A user-friendly `web application` that helps students to find the best institutions near them.
 
-- **🔗** [**STOPPED: SayHalo**](https://github.com/divyanshudhruv/sayhalo-slm): An `AI powered` SLM aggregator.
+- **🏮** [**ONGOING: RegexSimplify**](https://github.com/divyanshudhruv/#): A simple `package` to simplify regex using chainable APIs.
 
-- **🔗** [**HelloLink**](https://github.com/divyanshudhruv/hellolink): Say `Hello` to your links, all in one place.
+- **👋** [**STOPPED: SayHalo**](https://github.com/divyanshudhruv/sayhalo-slm): An `AI powered` SLM aggregator.
+
+- **🎩** [**HelloLink**](https://github.com/divyanshudhruv/hellolink): Say `Hello` to your links, all in one place.
 
 - **⛓️‍💥** [**Eeon**](https://github.com/divyanshudhruv/eeon): An `AI assistant` for emoticons.
 
