@@ -278,8 +278,8 @@
  <summary>
  <h2><b>🪐 My Gitroll</b></h2></summary>
 
- <a href="#" target="_blank"><img src="https://github.com/user-attachments/assets/13db1934-d82f-4292-a402-8fafdce6686e" alt="GitRoll Profile Badge"   width="390"/></a>
- 
+ <a href="#" target="_blank"><img src="https://github.com/user-attachments/assets/bdb86153-f326-47a0-9e63-5f23d9dfed2f" alt="GitRoll Profile Badge"   width="500"/></a>
+
 </details>
  <br>
 
