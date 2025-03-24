@@ -9,7 +9,7 @@
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="180px" height="29.4px">
 
-<b>`Thankyou for 100 followers :)`</b>
+<b>`Thankyou for following :)`</b>
 
 </p>
 <br>
