@@ -246,6 +246,8 @@
  <summary>
  <h2><b>🗃️ Current Projects</b></h2></summary>
 
+- **📋**  [**CoClip**](https://coclip.vercel.app/): A universal `clipboard` that lets you copy text from one device and access it `anywhere` effortlessly.
+
 - **🌊** [**DataDiver-AI**](https://datadiver-ai.vercel.app/):  The ultimate tool for web scraping, `transforming` unstructured websites into clean JSON.
 
 - **🪑** [**Next-Bench - Sonamii**](https://next-bench-dev.vercel.app/?ref=github/divyanshudhruv): A user-friendly `web application` that helps students to find the best institutions near them.
