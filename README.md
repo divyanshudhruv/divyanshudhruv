@@ -288,9 +288,11 @@
  **<h2 align="left">🤖 GitHub Stats</h2>**
 
 <p align="left">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=divyanshudhruv&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshudhruv&theme=react&hide_border=false" alt="GitHub streak Card" />
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=divyanshudhruv&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" /> 
+ <!--
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshudhruv&theme=react&hide_border=false" alt="GitHub streak Card" />
 </p>
-
+-->
 
 <!--
 <p align="left">
