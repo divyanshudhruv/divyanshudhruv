@@ -33,7 +33,7 @@
 <p align="left">
 <h2 align="left"><b>😐 About me:</b></h2>
 
-- ⚒️ I’m currently working on **[Sourceful Space](https://sourceful-space.vercel.app)** ✨☄️
+- ⚒️ I’m currently working on **[Re-Folio](https://re-folio.vercel.app)** ✨☄️
 
 - 🌱 I’m currently learning about **`DSA` & `Web3`**
 
@@ -245,6 +245,10 @@
 <details>
  <summary>
  <h2><b>🗃️ Current Projects</b></h2></summary>
+
+- **📄**  [**Re-Folio (beta)**](https://re-folio.vercel.app/): Transform your `resume` into a stunning portfolio.
+
+- **📨**  [**Klarity-AI**](https://klarity-ai.vercel.app/): Your `inbox`, chats, notes & chaos — turned into clarity.
 
 - **☄️**  [**Sourceful Space**](https://coclip.vercel.app/): Empowering `developers` and designers to explore, share, and contribute to `open-source` projects with AI-crafted briefs.
 
