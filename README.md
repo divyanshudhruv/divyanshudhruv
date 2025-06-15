@@ -35,7 +35,7 @@
 
 - ⚒️ I’m currently working on **[Re-Folio](https://re-folio.vercel.app)** ✨☄️
 
-- 🌱 I’m currently learning about **`DSA` & `Web3`**
+- 🌱 I’m currently learning about **`DSA`. `Web3` & `Cybersecurity`**
 
  - ⚡ Fun fact: **I love to play `Guitar`** 
 
