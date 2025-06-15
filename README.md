@@ -41,7 +41,7 @@
 
 -  😭 I miss **`2024`** 
 
-- 📫 Find Me: **`Github`** , **`Discord`** , **`Codepen`** , **`Dev.to`**
+- 📫 Find Me: **`Github`** , **`Discord`** , **`Codepen`** , **`Dev.to`**, `**Peerlist**`, `**Linkedin**`, `**Re-Folio**`
 
  
   <br>
