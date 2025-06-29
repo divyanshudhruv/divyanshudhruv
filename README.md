@@ -47,7 +47,7 @@
   <br>
 
   
- **<h2 align="left">💀 My Skills</h2>**
+ **<h2 align="left">💀 Skills & Stacks</h2>**
 <table style="width: 100%; border: 0px solid white;">
   <tr>
     <td style="text-align: center; border: 0px; padding: 12px;">
