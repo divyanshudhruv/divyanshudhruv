@@ -35,6 +35,8 @@
 
 - ⚒️ I’m currently working on **[Re-Folio](https://re-folio.vercel.app)** ✨☄️
 
+- 😏 Lead developer of **[Next Bench](https://next-bench-dev.vercel.app/)** 🪑
+
 - 🌱 I’m currently learning about **`DSA`. `Web3` & `Cybersecurity`**
 
  - ⚡ Fun fact: **I love to play `Guitar`** 
