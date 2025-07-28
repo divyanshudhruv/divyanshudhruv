@@ -289,6 +289,8 @@
  <h2><b>🪐 My Gitroll</b></h2></summary>
 
  <a href="#" target="_blank"><img src="https://github.com/user-attachments/assets/bdb86153-f326-47a0-9e63-5f23d9dfed2f" alt="GitRoll Profile Badge"   width="500"/></a>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://api.githubtrends.io/user/svg/divyanshudhruv/repos?time_range=six_months&include_private=True&loc_metric=changed&theme=dark"/>
 
 </details>
  <br>
