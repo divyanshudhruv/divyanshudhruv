@@ -33,7 +33,7 @@
 <p align="left">
 <h2 align="left"><b>😐 About me:</b></h2>
 
-- ⚒️ I’m currently working on **[Re-Folio](https://re-folio.vercel.app)** ✨☄️
+- ⚒️ I’m currently working on **Floid** ✨☄️
 
 - 😏 Lead developer of **[Next Bench](https://next-bench-dev.vercel.app/)** 🪑
 
