@@ -33,7 +33,7 @@
 <p align="left">
 <h2 align="left"><b>😐 About me:</b></h2>
 
-- ⚒️ I’m currently working on **Floid** ✨☄️
+- ⚒️ I’m currently working on **NOTHING (theory)** ✨☄️
 
 - 😏 Lead developer of **[Next Bench](https://next-bench-dev.vercel.app/)** 🪑
 
@@ -45,6 +45,7 @@
 
 - 📫 Find Me: **`Github`** , **`Discord`** , **`Codepen`** , **`Dev.to`**, **`Peerlist`**, **`Linkedin`**, **`Re-Folio`**
 
+- ☕ My portfolio: [click click ✨](https://divyanshudhruv.is-a.dev) 
  
   <br>
 
