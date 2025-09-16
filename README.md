@@ -35,6 +35,8 @@
 
 - ⚒️ I’m currently working on **NOTHING (theory)** ✨☄️
 
+- 🔥 Creator of **[Theta](https://theta0.vercel.app)**
+
 - 😏 Lead developer of **[Next Bench](https://next-bench-dev.vercel.app/)** 🪑
 
 - 🌱 I’m currently learning about **`DSA`. `Web3` & `Cybersecurity`**
