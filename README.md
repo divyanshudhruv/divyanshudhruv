@@ -35,7 +35,7 @@
 
 - ⚒️ I’m currently working on **NOTHING (theory)** ✨☄️
 
-- 🔥 Creator of **[Theta](https://theta0.vercel.app)**
+- 🔥 Creator of **[Theta0 • uhm, a Threads alternative](https://theta0.vercel.app)**
 
 - 😏 Lead developer of **[Next Bench](https://next-bench-dev.vercel.app/)** 🪑
 
