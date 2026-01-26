@@ -1,5 +1,7 @@
 ![img](img/code.gif)
 
+<img src="https://wakatime.com/share/@divyanshudhruv/90f43e34-596d-41c7-a35e-92b43ed1fbb7.svg" style="width:100%">
+
 <br>
 
 ```markdown
@@ -294,7 +296,8 @@
 
  <a href="#" target="_blank"><img src="https://github.com/user-attachments/assets/bdb86153-f326-47a0-9e63-5f23d9dfed2f" alt="GitRoll Profile Badge"   width="500"/></a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- <img src="https://api.githubtrends.io/user/svg/divyanshudhruv/repos?time_range=six_months&include_private=True&loc_metric=changed&theme=dark"/>
+ <!--
+ <img src="https://api.githubtrends.io/user/svg/divyanshudhruv/repos?time_range=six_months&include_private=True&loc_metric=changed&theme=dark"/>-->
 
 </details>
  <br>
@@ -305,7 +308,6 @@
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=divyanshudhruv&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" /><br> 
  <img width="48%" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=26998&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=react"><br>
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshudhruv&theme=react&hide_border=false" alt="GitHub streak Card" /><br>
- <figure><embed src="https://wakatime.com/share/@divyanshudhruv/b78c47a9-968d-49e9-9f7a-df35a74bfb17.svg"></embed></figure>
 </p>
 
 
