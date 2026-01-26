@@ -7,8 +7,9 @@
 ```
 
 <p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="180px" height="29.4px">
-
+ <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="180px" height="29.4px"><br>
+<img src="https://hackatime-badge.hackclub.com/U082L85R01W/next-bench">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://wakatime.com/badge/user/3abded35-ce5a-45e3-8c04-7ec2441b38c7.svg">
+ 
 <b>`Thankyou for following :)`</b>
 
 </p>
@@ -301,9 +302,10 @@
  **<h2 align="left">🤖 GitHub Stats</h2>**
 
 <p align="left">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=divyanshudhruv&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" /> 
- 
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshudhruv&theme=react&hide_border=false" alt="GitHub streak Card" />
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=divyanshudhruv&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" /><br> 
+ <img width="48%" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=26998&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=react"><br>
+ <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshudhruv&theme=react&hide_border=false" alt="GitHub streak Card" /><br>
+ <figure><embed src="https://wakatime.com/share/@divyanshudhruv/b78c47a9-968d-49e9-9f7a-df35a74bfb17.svg"></embed></figure>
 </p>
 
 
