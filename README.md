@@ -10,7 +10,9 @@
 
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="180px" height="29.4px"><br>
-<img src="https://hackatime-badge.hackclub.com/U082L85R01W/next-bench">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://wakatime.com/badge/user/3abded35-ce5a-45e3-8c04-7ec2441b38c7.svg">
+<img src="https://hackatime-badge.hackclub.com/U082L85R01W/next-bench">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://wakatime.com/badge/user/3abded35-ce5a-45e3-8c04-7ec2441b38c7.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://user-badge.committers.top/india/divyanshudhruv.svg">
+
  
 <b>`Thankyou for following :)`</b>
 
