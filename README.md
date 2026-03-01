@@ -1,7 +1,12 @@
 ![img](img/code.gif)
 
 <img src="https://wakatime.com/share/@divyanshudhruv/90f43e34-596d-41c7-a35e-92b43ed1fbb7.svg" style="width:100%">
-
+<a href="https://heatmap.shymike.dev?id=26998&labels=true&standalone=true" title="Click to view detailed data for each day!"  style="width:100%">
+    <picture  style="width:100%">
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=26998&labels=true&theme=dark"  style="width:100%">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=26998&labels=true&theme=light"  style="width:100%">
+    </picture>
+</a>
 <br>
 
 ```markdown
@@ -307,8 +312,8 @@
  **<h2 align="left">🤖 GitHub Stats</h2>**
 
 <p align="left">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=divyanshudhruv&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" /><br> 
- <img width="48%" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=26998&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=react"><br>
+ <!--<img width="48%" src="https://github-readme-stats.vercel.app/api?username=divyanshudhruv&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" /><br>--> 
+ <img width="48%" src="https://github-readme-stats.hackclub.dev/api/wakatime?username=26998&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=40&theme=react"><br>
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanshudhruv&theme=react&hide_border=false" alt="GitHub streak Card" /><br>
 </p>
 
