@@ -1,4 +1,12 @@
 ![img](img/code.gif)
+> [!IMPORTANT]
+> ### Private Profile Update
+> **Status:** Re-indexing in progress 🛠️
+>
+> Due to some recent **`rebase` and `force-push`** to clean up repository metadata, my contribution graph is currently out of sync. While **`5,000+ commits`** are preserved, the platform is currently re-linking **`500+ legacy commits`** and a **`150-commit segment from 2025`** that impacted my **`380-day streak`**.
+>
+> I am currently **re-indexing** these original **`SHAs`** and expect the full history to be visible again within the next few days. HOPEFULLY...
+>
 
 <img src="https://wakatime.com/share/@divyanshudhruv/90f43e34-596d-41c7-a35e-92b43ed1fbb7.svg" style="width:100%">
 <a href="https://heatmap.shymike.dev?id=26998&labels=true&standalone=true" title="Click to view detailed data for each day!"  style="width:100%">
@@ -8,6 +16,10 @@
     </picture>
 </a>
 <br>
+
+
+
+</br>
 
 ```markdown
 😋 Just a simple coder
@@ -20,6 +32,7 @@
 
  
 <b>`Thankyou for following :)`</b>
+
 
 </p>
 <br>
