@@ -1,6 +1,6 @@
 ![img](img/code.gif)
 > [!IMPORTANT]
-> ### Private Profile Update
+> ### Profile Update
 > **Status:** Re-indexing in progress 🛠️
 >
 > Due to some recent **`rebase` and `force-push`** to clean up repository metadata, my contribution graph is currently out of sync. While **`5,000+ commits`** are preserved, the platform is currently re-linking **`500+ legacy commits`** and a **`150-commit segment from 2025`** that impacted my **`380-day streak`**.
