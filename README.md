@@ -76,6 +76,9 @@
 
   
  **<h2 align="left">💀 Skills & Stacks</h2>**
+
+`SOOO MANYYY!!! (hello world, too)`
+
 <table style="width: 100%; border: 0px solid white;">
   <tr>
     <td style="text-align: center; border: 0px; padding: 12px;">
