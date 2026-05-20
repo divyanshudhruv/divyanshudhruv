@@ -19,9 +19,9 @@
 
 _My backend projects are trapped in the school system 😭😭_
 
-
+<br>
 <p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="180px" height="29.4px"><br>
+ <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="180px" height="29.4px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://u8views.com/api/v1/github/profiles/71079602/views/day-week-month-total-count.svg" height="20"/><br><br>
 <img src="https://hackatime-badge.hackclub.com/U082L85R01W/next-bench">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://wakatime.com/badge/user/3abded35-ce5a-45e3-8c04-7ec2441b38c7.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://user-badge.committers.top/india/divyanshudhruv.svg">
 
