@@ -53,11 +53,9 @@ _My backend projects are trapped in the school system 😭😭_
 
 - ⚒️ I’m currently working on **NOTHING (theory)** ✨☄️
 
-- 🔥 Creator of **[Theta0 • uhm, a Threads alternative](https://theta0.vercel.app)**
+- 🔥 SECRETLY BUILDING **`weave 🧵📍`**
 
-- 😏 Lead developer of **[Next Bench](https://next-bench-dev.vercel.app/)** 🪑
-
-- 🌱 I’m currently learning about **`DSA`. `Web3` & `Cybersecurity`**
+- 🌱 I’m currently learning about **`DSA`. `Web3` & `System Design`**
 
  - ⚡ Fun fact: **I love to play `Guitar`** 
 
