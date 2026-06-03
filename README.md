@@ -1,32 +1,26 @@
 ![img](img/code.gif)
 
 <img src="https://wakatime.com/share/@divyanshudhruv/90f43e34-596d-41c7-a35e-92b43ed1fbb7.svg" style="width:100%">
-<a href="https://heatmap.shymike.dev?id=26998&labels=true&standalone=true" title="Click to view detailed data for each day!"  style="width:100%">
+<a href="https://heatmap.shymike.dev?id=26998&labels=true&standalone=true" title="Click to view detailed data for each day!"  style="width:100%;">
     <picture  style="width:100%">
         <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=26998&labels=true&theme=dark"  style="width:100%">
-        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=26998&labels=true&theme=light"  style="width:100%">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=26998&labels=true&theme=light"  style="width:100%;">
     </picture>
 </a>
 <br>
 
 
 
-</br>
-
-```markdown
-😋 Just a simple coder
-```
-
-_My backend projects are trapped in the school system 😭😭_
 
 <br>
 <p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="180px" height="29.4px">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://u8views.com/api/v1/github/profiles/71079602/views/day-week-month-total-count.svg" height="20"/><br><br>
+    
+<img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="180px" height="29.4px"><br><br>
+<img src="https://u8views.com/api/v1/github/profiles/71079602/views/day-week-month-total-count.svg" height="20"/><br><br>
 <img src="https://hackatime-badge.hackclub.com/U082L85R01W/next-bench">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://wakatime.com/badge/user/3abded35-ce5a-45e3-8c04-7ec2441b38c7.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://user-badge.committers.top/india/divyanshudhruv.svg">
 
  
-<b>`Thankyou for following :)`</b>
 
 
 </p>
@@ -51,9 +45,9 @@ _My backend projects are trapped in the school system 😭😭_
 <p align="left">
 <h2 align="left"><b>😐 About me:</b></h2>
 
-- ⚒️ I’m currently working on **NOTHING (theory)** ✨☄️
-
-- 🔥 SECRETLY BUILDING **`weave 🧵📍`**
+- 🟧 Fellow @ **YC Startup School India 2026**
+ 
+- ⚒️ I’m currently working on  **`WEAVE`** 🧵☄️
 
 - 🌱 I’m currently learning about **`DSA`. `Web3` & `System Design`**
 
@@ -69,8 +63,6 @@ _My backend projects are trapped in the school system 😭😭_
 
   
  **<h2 align="left">💀 Skills & Stacks</h2>**
-
-`SOOO MANYYY!!! (hello world, too)`
 
 <table style="width: 100%; border: 0px solid white;">
   <tr>
@@ -270,23 +262,45 @@ _My backend projects are trapped in the school system 😭😭_
  <summary>
  <h2><b>🗃️ Current Projects</b></h2></summary>
 
+### New
+
+- **🧵**  [**Weave**](https://weave.design/): A declarative orchestration engine for building autonomous, `YAML-defined` web data pipelines.
+  
+- **🌐**  [**Cummand**](https://#): A minimalist `reverse-tunneling` CLI that exposes local servers to the web with real-time TUI logs.
+  
+- **🗿**  [**Termux**](https://#): A lightweight `AI terminal` with a built-in editor and agents.
+ 
+- **🗄️**  [**AeroDB**](https://aerodb.system): A `RESP-compatible` network database featuring `scratch-built` vector similarity search and time-travel key versioning.
+ 
+- **🧠**  [**Retain**](https://#): An open-source, local-first `screen memory engine` providing a time-aware, personal LLM with absolute privacy.
+ 
+- **📹**  [**CliMeet**](https://climeet.build): A real-time, peer-to-peer terminal ASCII `video conferencing` platform built with WebRTC and Textual.
+
+- **📨**  [**KlarityAI**](https://klarity-ai.vercel.app/): Your `inbox`, chats, notes & chaos - turned into clarity.
+
+  <br>
+
+### Old 
+
 - **📄**  [**Re-Folio (beta)**](https://re-folio.vercel.app/): Transform your `resume` into a stunning portfolio.
 
-- **📨**  [**Klarity-AI**](https://klarity-ai.vercel.app/): Your `inbox`, chats, notes & chaos — turned into clarity.
+- **☄️**  [**Sourceful Space**](https://sourceful.space/): Empowering `developers` and designers to explore, share, and contribute to `open-source` projects.
 
-- **☄️**  [**Sourceful Space**](https://coclip.vercel.app/): Empowering `developers` and designers to explore, share, and contribute to `open-source` projects with AI-crafted briefs.
+- **👋** [**SayHalo**](https://github.com/divyanshudhruv/sayhalo-slm): An `AI powered` SLM aggregator.
 
-- **📋**  [**CoClip**](https://coclip.vercel.app/): A universal `clipboard` that lets you copy text from one device and access it `anywhere` effortlessly.
+- **🎩** [**HelloLink**](https://github.com/divyanshudhruv/hellolink): Say `Hello` to your links, all in one place.
 
-- **🌊** [**DataDiver-AI**](https://datadiver-ai.vercel.app/):  The ultimate tool for web scraping, `transforming` unstructured websites into clean JSON.
-
-- **🪑** [**Next-Bench - Sonamii**](https://next-bench-dev.vercel.app/?ref=github/divyanshudhruv): A user-friendly `web application` that helps students to find the best institutions near them.
+- **🪑** [**Next-Bench - Sonamii**](https://nextbench.vercel.app): A user-friendly `web application` that helps students to find the best institutions near them.
 
 - **🏮** [**ONGOING: RegexSimplify**](https://github.com/divyanshudhruv/#): A simple `package` to simplify regex using chainable APIs.
 
-- **👋** [**STOPPED: SayHalo**](https://github.com/divyanshudhruv/sayhalo-slm): An `AI powered` SLM aggregator.
+<br>
 
-- **🎩** [**HelloLink**](https://github.com/divyanshudhruv/hellolink): Say `Hello` to your links, all in one place.
+### Very Old
+
+- **📋**  [**CoClip**](https://coclip.sh/): A universal `clipboard` that lets you copy text from one device and access it `anywhere` effortlessly.
+
+- **🌊** [**DataDiver-AI**](https://datadiver-ai.vercel.app/):  The ultimate tool for web scraping, `transforming` unstructured websites into clean JSON.
 
 - **⛓️‍💥** [**Eeon**](https://github.com/divyanshudhruv/eeon): An `AI assistant` for emoticons.
 
@@ -302,9 +316,8 @@ _My backend projects are trapped in the school system 😭😭_
 
  - **📍** [**Minifolio**](https://github.com/divyanshudhruv/Minifolio): A `minimal` portfolio template for developers
  
- - **🔮** [**Portfolio**](https://github.com/divyanshudhruv/divyanshudhruv.github.io): My personal `portfolio`
-
 - **🚩** [**Better-Markdown**](https://github.com/divyanshudhruv/Better-Markdown): `Tips` for markdown
+
 </details>
  <details>
  <summary>
