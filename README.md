@@ -262,11 +262,21 @@
  <summary>
  <h2><b>🗃️ Current Projects</b></h2></summary>
 
-### New
+### Proposed
+- **🗝️**  [**Keyshard**](https://#): An ephemeral environment manager injecting `encrypted production secrets` directly into memory.
+ 
+- **🔗**  [**xxxxxxxxx**](https://#): An autonomous professional networking simulator populated entirely by interacting `AI agents`,
+ 
+- **🪈**  [**Peerpipe**](https://#): A borderless, peer-to-peer terminal interface for secure, `decentralized` file transfers.
+ 
+- **🗣️**  [**Echoflow + Retain**](https://#): A standalone, high-performance terminal utility for localized `speech-to-text` processing.
 
-- **🧵**  [**Weave**](https://weave.design/): A declarative orchestration engine for building autonomous, `YAML-defined` web data pipelines.
+
+### New (featured)
+
+- **🧵**  [**ONGOING: Weave**](https://weave.design/): A declarative orchestration engine for building autonomous, `YAML-defined` web data pipelines.
   
-- **🌐**  [**Cummand**](https://#): A minimalist `reverse-tunneling` CLI that exposes local servers to the web with real-time TUI logs.
+- **🌐**  [**ONGOING: Cummand**](https://#): A minimalist `reverse-tunneling` CLI that exposes local servers to the web with real-time TUI logs.
   
 - **🗿**  [**Termux**](https://#): A lightweight `AI terminal` with a built-in editor and agents.
  
@@ -274,9 +284,9 @@
  
 - **🧠**  [**Retain**](https://#): An open-source, local-first `screen memory engine` providing a time-aware, personal LLM with absolute privacy.
  
-- **📹**  [**CliMeet**](https://climeet.build): A real-time, peer-to-peer terminal ASCII `video conferencing` platform built with WebRTC and Textual.
+- **📹**  [**SHHHH: xxxxxxx**](https://xxxxxxx.build): A real-time, peer-to-peer terminal ASCII `xxxxx xxxxxxxxxxxx` platform built with WebRTC and Textual.
 
-- **📨**  [**KlarityAI**](https://klarity-ai.vercel.app/): Your `inbox`, chats, notes & chaos - turned into clarity.
+- **📨**  [**BANNED: KlarityAI**](https://klarity-ai.vercel.app/): Your `inbox`, chats, notes & chaos - turned into clarity.
 
   <br>
 
@@ -286,7 +296,7 @@
 
 - **☄️**  [**Sourceful Space**](https://sourceful.space/): Empowering `developers` and designers to explore, share, and contribute to `open-source` projects.
 
-- **👋** [**SayHalo**](https://github.com/divyanshudhruv/sayhalo-slm): An `AI powered` SLM aggregator.
+- **👋** [**SayHalo**](https://sayhalo-slm.vercel.app): An `AI powered` SLM aggregator.
 
 - **🎩** [**HelloLink**](https://github.com/divyanshudhruv/hellolink): Say `Hello` to your links, all in one place.
 
@@ -296,7 +306,7 @@
 
 <br>
 
-### Very Old
+### Very Old (archived)
 
 - **📋**  [**CoClip**](https://coclip.sh/): A universal `clipboard` that lets you copy text from one device and access it `anywhere` effortlessly.
 
