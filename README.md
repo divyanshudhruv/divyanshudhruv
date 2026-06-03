@@ -45,7 +45,7 @@
 <p align="left">
 <h2 align="left"><b>😐 About me:</b></h2>
 
-- 🟧 Fellow @ **YC Startup School India 2026**
+- 🟧 Fellow @ **YC Startup School India 2k26**
  
 - ⚒️ I’m currently working on  **`WEAVE`** 🧵☄️
 
@@ -256,6 +256,8 @@
   </tr> 
 </table>
 
+> Yes... I'm pretty comfortable with every language and library on this list.
+> 
 <br>
 
 <details>
@@ -265,12 +267,13 @@
 ### Proposed
 - **🗝️**  [**Keyshard**](https://#): An ephemeral environment manager injecting `encrypted production secrets` directly into memory.
  
-- **🔗**  [**xxxxxxxxx**](https://#): An autonomous professional networking simulator populated entirely by interacting `AI agents`,
+- **🔗**  [**XxxxxxXx**](https://#): An autonomous professional networking simulator populated entirely by interacting `AI agents`.
  
 - **🪈**  [**Peerpipe**](https://#): A borderless, peer-to-peer terminal interface for secure, `decentralized` file transfers.
  
 - **🗣️**  [**Echoflow + Retain**](https://#): A standalone, high-performance terminal utility for localized `speech-to-text` processing.
 
+<br>
 
 ### New (featured)
 
@@ -284,7 +287,7 @@
  
 - **🧠**  [**Retain**](https://#): An open-source, local-first `screen memory engine` providing a time-aware, personal LLM with absolute privacy.
  
-- **📹**  [**SHHHH: xxxxxxx**](https://xxxxxxx.build): A real-time, peer-to-peer terminal ASCII `xxxxx xxxxxxxxxxxx` platform built with WebRTC and Textual.
+- **📹**  [**SHHHH: XxxXxxx**](https://xxxxxxx.build): A real-time, peer-to-peer terminal ASCII `xxxxx xxxxxxxxxxxx` platform built with XxxXXX and Textual.
 
 - **📨**  [**BANNED: KlarityAI**](https://klarity-ai.vercel.app/): Your `inbox`, chats, notes & chaos - turned into clarity.
 
