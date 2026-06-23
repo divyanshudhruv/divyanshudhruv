@@ -277,6 +277,8 @@
 
 ### New (featured)
 
+- **🌾**  [**Silo**](https://github.com/divyanshudhruv/silo): Zero-infrastructure, `local-first` version manager with simpler commands, built for iterators and `AI agents`. 
+
 - **🧵**  [**ONGOING: Weave**](https://weave.design/): A declarative orchestration engine for building autonomous, `YAML-defined` web data pipelines.
   
 - **🌐**  [**ONGOING: Cummand**](https://#): A minimalist `reverse-tunneling` CLI that exposes local servers to the web with real-time TUI logs.
