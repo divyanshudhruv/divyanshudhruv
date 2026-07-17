@@ -256,7 +256,7 @@
   </tr> 
 </table>
 
-> Yes... I'm pretty comfortable with every language and library on this list.
+> Yes... I'm pretty comfortable with every languages and libraries on this list.
 > 
 <br>
 
