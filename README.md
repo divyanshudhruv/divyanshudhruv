@@ -394,18 +394,18 @@
     <tr>
     <td colspan="2" valign="top" style="padding-top: 0px; ">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/manual/bomberman-contribution-graph-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/manual/bomberman-contribution-graph.svg">
-        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/manual/bomberman-contribution-graph.svg" style="width: 100%; display: block; margin-bottom: 12px; margin-top:-16px" alt="Bomberman Contribution Graph">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/graphs/bomberman-contribution-graph-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/graphs/bomberman-contribution-graph.svg">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/graphs/bomberman-contribution-graph.svg" style="width: 100%; display: block; margin-bottom: 12px; margin-top:-16px" alt="Bomberman Contribution Graph">
       </picture>
     </td>
   </tr>
     <tr>
     <td colspan="2" valign="top" style="padding-top: 0px; ">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/manual/github-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/manual/github-snake.svg">
-        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/manual/github-snake.svg" style="width: 100%; display: block; margin-bottom: 12px; margin-top:-16px" alt="Snake Contribution Graph">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/graphs/github-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/graphs/github-snake.svg">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/graphs/github-snake.svg" style="width: 100%; display: block; margin-bottom: 12px; margin-top:-16px" alt="Snake Contribution Graph">
       </picture>
     </td>
   </tr>

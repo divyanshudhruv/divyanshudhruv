@@ -2,7 +2,7 @@ name: generate manual graphs
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "15 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -30,8 +30,9 @@ jobs:
       - name: organize into subfolder
         shell: bash
         run: |
-          mkdir -p output-files/manual
-          mv dist/*.svg output-files/manual/
+          mkdir -p output-files/graphs
+          mv dist/*.svg output-files/graphs/ 2>/dev/null
+          mv bomberman-contribution-graph*.svg output-files/graphs/ 2>/dev/null
 
       - name: push to output branch
         uses: peaceiris/actions-gh-pages@v3

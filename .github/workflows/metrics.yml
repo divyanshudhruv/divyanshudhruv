@@ -2,7 +2,7 @@ name: generate lowlighter metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "30 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,7 +16,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: plugin.starlists.languages.svg
-          token: NOT_NEEDED
           base: ""
           plugin_starlists: yes
           plugin_starlists_languages: yes
@@ -28,7 +27,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: plugin.topics.icons.svg
-          token: NOT_NEEDED
           base: ""
           plugin_topics: yes
           plugin_topics_mode: icons
