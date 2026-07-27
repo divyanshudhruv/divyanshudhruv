@@ -16,15 +16,13 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: plugin.languages.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.SECRET_GITHUB_TOKEN }}
           base: ""
           plugin_languages: yes
-          plugin_languages_sections: recently-used
-          plugin_languages_recent_load: 400
-          plugin_languages_recent_days: 30
+          plugin_languages_sections: most-used
           plugin_languages_limit: 8
           plugin_languages_details: bytes-size, percentage
-          config_css: |
+          extras_css: |
             :root{--bg:transparent}svg{background:transparent!important}
 
       - name: organize into subfolder
@@ -36,7 +34,7 @@ jobs:
       - name: push to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.SECRET_GITHUB_TOKEN }}
           publish_dir: ./output-files
           publish_branch: output
           keep_files: true

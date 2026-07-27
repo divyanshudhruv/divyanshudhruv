@@ -15,6 +15,7 @@ jobs:
     steps:
       - name: generate bomberman SVGs
         uses: abozanona/pacman-contribution-graph@main
+        continue-on-error: true
         with:
           github_user_name: ${{ github.repository_owner }}
           games: 'bomberman'
@@ -31,8 +32,7 @@ jobs:
         shell: bash
         run: |
           mkdir -p output-files/graphs
-          mv dist/*.svg output-files/graphs/ 2>/dev/null
-          mv bomberman-contribution-graph*.svg output-files/graphs/ 2>/dev/null
+          [ -d dist ] && mv dist/*.svg output-files/graphs/ || true
 
       - name: push to output branch
         uses: peaceiris/actions-gh-pages@v3
