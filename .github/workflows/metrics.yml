@@ -1,0 +1,103 @@
+name: generate lowlighter metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: plugin.starlists.languages.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_starlists: yes
+          plugin_starlists_languages: yes
+          plugin_starlists_limit_repositories: 0
+          plugin_starlists_limit_languages: 8
+          config_css: |
+            :root{--bg:transparent}svg{background:transparent!important}
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: plugin.topics.icons.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 15
+          config_css: |
+            :root{--bg:transparent}svg{background:transparent!important}
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: plugin.achievements.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+          config_css: |
+            :root{--bg:transparent}svg{background:transparent!important}
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: plugin.habits.facts.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_days: 30
+          plugin_habits_skipped: |
+            divyanshudhruv/private-repository
+          plugin_habits_charts: no
+          config_timezone: Asia/Kolkata
+          config_css: |
+            :root{--bg:transparent}svg{background:transparent!important}
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: plugin.habits.charts.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: ""
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_days: 30
+          plugin_habits_skipped: |
+            divyanshudhruv/private-repository
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: graph
+          config_timezone: Asia/Kolkata
+          config_css: |
+            :root{--bg:transparent}svg{background:transparent!important}
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: plugin.introduction.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: header
+          plugin_introduction: yes
+          plugin_introduction_title: no
+          config_css: |
+            :root{--bg:transparent}svg{background:transparent!important}
+
+      - name: organize into subfolder
+        shell: bash
+        run: |
+          mkdir -p output-files/metrics
+          mv plugin.*.svg output-files/metrics/
+
+      - name: push to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./output-files
+          publish_branch: output
+          keep_files: true

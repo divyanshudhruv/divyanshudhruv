@@ -1,17 +1,20 @@
-<img width="880" height="192" alt="github-user-contribution" src="https://github.com/user-attachments/assets/ac85b4b8-00f3-4193-a940-f033affc632e" />![img](img/code.gif)
+![img](img/code.gif)
 
 <img src="https://wakatime.com/share/@divyanshudhruv/90f43e34-596d-41c7-a35e-92b43ed1fbb7.svg" style="width:100%">
-<a href="#"style="width:100%;">
-    <picture  style="width:100%">
-        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=26998&labels=true&theme=dark"  style="width:100%">
-        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=26998&labels=true&theme=light"  style="width:100%;">
+
+<a href="#" style="width:100%">
+    <picture style="width:100%">
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=26998&labels=true&theme=dark" style="width:100%" />
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=26998&labels=true&theme=light" style="width:100%" />
     </picture>
 </a>
-<br>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="180px" height="29.4px">
+<br>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="180px" height="30px">
+<img src="img\love-md.svg" height="30px"></p>
 
 <p align="left"><img src="https://hackatime-badge.hackclub.com/U082L85R01W/next-bench?style=for-the-badge">
 <img src="https://wakatime.com/badge/user/3abded35-ce5a-45e3-8c04-7ec2441b38c7.svg?style=for-the-badge">
@@ -36,7 +39,7 @@
 
 ## 😐 A little about me
 
-<img src="https://metrics.lecoq.io/divyanshudhruv?template=classic&base.indepth=true&base.hireable=true&repositories.forks=true&languages=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&languages=false&languages.limit=99&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&config.timezone=Asia%2FCalcutta&config.twemoji=true">
+<img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.introduction.svg">
 
 - 🟧 Fellow @ **YC Startup School India 2k26**
 
@@ -52,203 +55,243 @@
 
 - ☕ My portfolio: [click click ✨](https://divyanshudhruv.is-a.dev)
 
+<br>
+
+<table style="width: 100%; border: 0px;">
+  <tr>
+    <td width="50%" valign="top" style="border: 0px; padding: 6px;">
+      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.starlists.languages.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.achievements.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.habits.charts.svg" style="width: 100%; display: block;">
+    </td>
+    <td width="50%" valign="top" style="border: 0px; padding: 6px;">
+      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.topics.icons.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.habits.facts.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.languages.svg" style="width: 100%; display: block;">
+    </td>
+  </tr>
+</table>
+
 <br/>
 
 ## 🔮 Skills and stacks
 
-<table style="width: 100%; border: 0px solid white;">
+<table style="width: 100vw; border: 0px;">
+  <colgroup>
+    <col style="width: 30%;">
+    <col style="width: 70%;">
+  </colgroup>
   <tr>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=javascript" height="40" alt="JavaScript" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="TypeScript" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="Three.js" /></td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=p5js" height="40" alt="P5.js" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=express" height="40" alt="Express" />
-    </td> <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=vite" height="40" alt="Discord" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="GitLab" />
-    </td>
-     </tr>
- <tr>  
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="Firebase" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="Supabase" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="MySQL" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=java" height="40" alt="Java" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=obsidian" height="40" alt="Obsidian" />
-    </td>  <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=vitest" height="40" alt="Roblox Studio" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=vue" height="40" alt="VSCode" />
-    </td>
-   </tr>
- <tr>  
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=pytorch" height="40" alt="PyTorch" />
-    </td>
-  <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=rabbitmq" height="40" alt="RabbitMQ" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=anaconda" height="40" alt="Anaconda" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=robloxstudio" height="40" alt="Roblox Studio" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="VSCode" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=discord" height="40" alt="Discord" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="GitLab" />
-    </td>
-  <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=cs" height="40" alt="Python" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=angular" height="40" alt="PyTorch" />
+    <td valign="top" style="border: 0px; padding: 8px; white-space: nowrap;"><code>markup & styling</code></td>
+    <td style="border: 0px; padding: 8px;">
+      <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML" />
+      <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS" />
+      <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" height="45" alt="Bootstrap" />
+      <img src="https://skillicons.dev/icons?i=materialui" height="45" alt="MUI" />
+      <img src="https://skillicons.dev/icons?i=sass" height="45" alt="Sass" />
+      <img src="https://skillicons.dev/icons?i=pug" height="45" alt="Pug" />
+      <img src="https://skillicons.dev/icons?i=svg" height="45" alt="SVG" />
     </td>
   </tr>
- <tr>  
-  <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="RabbitMQ" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Anaconda" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=bun" height="40" alt="Roblox Studio" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=codepen" height="40" alt="VSCode" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=django" height="40" alt="Discord" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=docker" height="40" alt="GitLab" />
-    </td>
-  <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="Python" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=flask" height="40" alt="PyTorch" />
-    </td>
-  <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="RabbitMQ" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=git" height="40" alt="Anaconda" />
+  <tr>
+    <td valign="top" style="border: 0px; padding: 8px; white-space: nowrap;"><code>programming languages</code></td>
+    <td style="border: 0px; padding: 8px;">
+      <img src="https://skillicons.dev/icons?i=javascript" height="45" alt="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=typescript" height="45" alt="TypeScript" />
+      <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" />
+      <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" />
+      <img src="https://skillicons.dev/icons?i=cs" height="45" alt="C#" />
+      <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++" />
     </td>
   </tr>
- <tr>  
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=gherkin" height="40" alt="Roblox Studio" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="VSCode" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=htmx" height="40" alt="Discord" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=md" height="40" alt="GitLab" />
-    </td>
-  <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="Python" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="PyTorch" />
-    </td>
-  <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="RabbitMQ" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="Anaconda" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Roblox Studio" />
-    </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="VSCode" />
+  <tr>
+    <td valign="top" style="border: 0px; padding: 8px; white-space: nowrap;"><code>frontend frameworks</code></td>
+    <td style="border: 0px; padding: 8px;">
+      <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" />
+      <img src="https://skillicons.dev/icons?i=vue" height="45" alt="Vue" />
+      <img src="https://skillicons.dev/icons?i=angular" height="45" alt="Angular" />
+      <img src="https://skillicons.dev/icons?i=htmx" height="45" alt="HTMX" />
+      <img src="https://skillicons.dev/icons?i=jquery" height="45" alt="jQuery" />
     </td>
   </tr>
-  <tr>  
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=npm" height="40" alt="Discord" />
+  <tr>
+    <td valign="top" style="border: 0px; padding: 8px; white-space: nowrap;"><code>full-stack</code></td>
+    <td style="border: 0px; padding: 8px;">
+      <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="Next.js" />
+      <img src="https://skillicons.dev/icons?i=angular" height="45" alt="Angular" />
     </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=pnpm" height="40" alt="GitLab" />
+  </tr>
+  <tr>
+    <td valign="top" style="border: 0px; padding: 8px; white-space: nowrap;"><code>2d / 3d graphics</code></td>
+    <td style="border: 0px; padding: 8px;">
+      <img src="https://skillicons.dev/icons?i=threejs" height="45" alt="Three.js" />
+      <img src="https://skillicons.dev/icons?i=p5js" height="45" alt="P5.js" />
     </td>
-   <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=opencv" height="40" alt="Python" />
+  </tr>
+  <tr>
+    <td valign="top" style="border: 0px; padding: 8px; white-space: nowrap;"><code>testing</code></td>
+    <td style="border: 0px; padding: 8px;">
+      <img src="https://skillicons.dev/icons?i=vitest" height="45" alt="Vitest" />
+      <img src="https://skillicons.dev/icons?i=gherkin" height="45" alt="Gherkin" />
     </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=r" height="40" alt="PyTorch" />
+  </tr>
+  <tr>
+    <td valign="top" style="border: 0px; padding: 8px; white-space: nowrap;"><code>scripting & shell</code></td>
+    <td style="border: 0px; padding: 8px;">
+      <img src="https://skillicons.dev/icons?i=bash" height="45" alt="Bash" />
+      <img src="https://skillicons.dev/icons?i=r" height="45" alt="R" />
+      <img src="https://skillicons.dev/icons?i=matlab" height="45" alt="MATLAB" />
+      <img src="https://skillicons.dev/icons?i=powershell" height="45" alt="PowerShell" />
     </td>
-  <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=ubuntu" height="40" alt="RabbitMQ" />
+  </tr>
+  <tr>
+    <td valign="top" style="border: 0px; padding: 8px; white-space: nowrap;"><code>backend runtimes</code></td>
+    <td style="border: 0px; padding: 8px;">
+      <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" />
+      <img src="https://skillicons.dev/icons?i=bun" height="45" alt="Bun" />
+      <img src="https://skillicons.dev/icons?i=deno" height="45" alt="Deno" />
     </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=replit" height="40" alt="Anaconda" />
+  </tr>
+  <tr>
+    <td valign="top" style="border: 0px; padding: 8px; white-space: nowrap;"><code>backend frameworks</code></td>
+    <td style="border: 0px; padding: 8px;">
+      <img src="https://skillicons.dev/icons?i=express" height="45" alt="Express" />
+      <img src="https://skillicons.dev/icons?i=django" height="45" alt="Django" />
+      <img src="https://skillicons.dev/icons?i=flask" height="45" alt="Flask" />
+      <img src="https://skillicons.dev/icons?i=dotnet" height="45" alt=".NET" />
+      <img src="https://skillicons.dev/icons?i=elysia" height="45" alt="Elysia" />
+      <img src="https://skillicons.dev/icons?i=fastapi" height="45" alt="FastAPI" />
     </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=sublime" height="40" alt="Roblox Studio" />
+  </tr>
+  <tr>
+    <td valign="top" style="border: 0px; padding: 8px; white-space: nowrap;"><code>api & messaging</code></td>
+    <td style="border: 0px; padding: 8px;">
+      <img src="https://skillicons.dev/icons?i=graphql" height="45" alt="GraphQL" />
+      <img src="https://skillicons.dev/icons?i=rabbitmq" height="45" alt="RabbitMQ" />
+      <img src="https://skillicons.dev/icons?i=postman" height="45" alt="Postman" />
     </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=solidity" height="40" alt="VSCode" />
+  </tr>
+  <tr>
+    <td valign="top" style="border: 0px; padding: 8px; white-space: nowrap;"><code>databases</code></td>
+    <td style="border: 0px; padding: 8px;">
+      <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="MySQL" />
+      <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB" />
+      <img src="https://skillicons.dev/icons?i=redis" height="45" alt="Redis" />
+      <img src="https://skillicons.dev/icons?i=sqlite" height="45" alt="SQLite" />
     </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=tensorflow" height="40" alt="Discord" />
+  </tr>
+  <tr>
+    <td valign="top" style="border: 0px; padding: 8px; white-space: nowrap;"><code>baas & orm</code></td>
+    <td style="border: 0px; padding: 8px;">
+      <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="Firebase" />
+      <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="Supabase" />
+      <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="Prisma" />
     </td>
-    <td style="text-align: center; border: 0px; padding: 12px;">
-      <img src="https://skillicons.dev/icons?i=terraform" height="40" alt="GitLab" />
+  </tr>
+  <tr>
+    <td valign="top" style="border: 0px; padding: 8px; white-space: nowrap;"><code>ai / ml</code></td>
+    <td style="border: 0px; padding: 8px;">
+      <img src="https://skillicons.dev/icons?i=pytorch" height="45" alt="PyTorch" />
+      <img src="https://skillicons.dev/icons?i=tensorflow" height="45" alt="TensorFlow" />
+      <img src="https://skillicons.dev/icons?i=opencv" height="45" alt="OpenCV" />
+      <img src="https://skillicons.dev/icons?i=anaconda" height="45" alt="Anaconda" />
     </td>
-  </tr> 
+  </tr>
+  <tr>
+    <td valign="top" style="border: 0px; padding: 8px; white-space: nowrap;"><code>devops & cloud</code></td>
+    <td style="border: 0px; padding: 8px;">
+      <img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker" />
+      <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=gitlab" height="45" alt="GitLab" />
+      <img src="https://skillicons.dev/icons?i=gcp" height="45" alt="GCP" />
+      <img src="https://skillicons.dev/icons?i=terraform" height="45" alt="Terraform" />
+      <img src="https://skillicons.dev/icons?i=ubuntu" height="45" alt="Ubuntu" />
+      <img src="https://skillicons.dev/icons?i=aws" height="45" alt="AWS" />
+      <img src="https://skillicons.dev/icons?i=githubactions" height="45" alt="GitHub Actions" />
+      <img src="https://skillicons.dev/icons?i=windows" height="45" alt="Windows" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" style="border: 0px; padding: 8px; white-space: nowrap;"><code>deployment</code></td>
+    <td style="border: 0px; padding: 8px;">
+      <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Vercel" />
+      <img src="https://skillicons.dev/icons?i=netlify" height="45" alt="Netlify" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" style="border: 0px; padding: 8px; white-space: nowrap;"><code>package managers</code></td>
+    <td style="border: 0px; padding: 8px;">
+      <img src="https://skillicons.dev/icons?i=npm" height="45" alt="npm" />
+      <img src="https://skillicons.dev/icons?i=pnpm" height="45" alt="pnpm" />
+      <img src="https://skillicons.dev/icons?i=yarn" height="45" alt="Yarn" />
+      <img src="https://skillicons.dev/icons?i=bun" height="45" alt="Bun" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" style="border: 0px; padding: 8px; white-space: nowrap;"><code>build tools</code></td>
+    <td style="border: 0px; padding: 8px;">
+      <img src="https://skillicons.dev/icons?i=vite" height="45" alt="Vite" />
+      <img src="https://skillicons.dev/icons?i=babel" height="45" alt="Babel" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" style="border: 0px; padding: 8px; white-space: nowrap;"><code>ides</code></td>
+    <td style="border: 0px; padding: 8px;">
+      <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VSCode" />
+      <img src="https://skillicons.dev/icons?i=sublime" height="45" alt="Sublime" />
+      <img src="https://skillicons.dev/icons?i=eclipse" height="45" alt="Eclipse" />
+      <img src="https://skillicons.dev/icons?i=idea" height="45" alt="IntelliJ IDEA" />
+      <img src="https://skillicons.dev/icons?i=vscodium" height="45" alt="VSCodium" />
+      <img src="https://skillicons.dev/icons?i=webstorm" height="45" alt="WebStorm" />
+      <img src="https://skillicons.dev/icons?i=neovim" height="45" alt="Neovim" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" style="border: 0px; padding: 8px; white-space: nowrap;"><code>design</code></td>
+    <td style="border: 0px; padding: 8px;">
+      <img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" style="border: 0px; padding: 8px; white-space: nowrap;"><code>knowledge & docs</code></td>
+    <td style="border: 0px; padding: 8px;">
+      <img src="https://skillicons.dev/icons?i=obsidian" height="45" alt="Obsidian" />
+      <img src="https://skillicons.dev/icons?i=notion" height="45" alt="Notion" />
+      <img src="https://skillicons.dev/icons?i=latex" height="45" alt="LaTeX" />
+      <img src="https://skillicons.dev/icons?i=md" height="45" alt="Markdown" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" style="border: 0px; padding: 8px; white-space: nowrap;"><code>coding platforms</code></td>
+    <td style="border: 0px; padding: 8px;">
+      <img src="https://skillicons.dev/icons?i=replit" height="45" alt="Replit" />
+      <img src="https://skillicons.dev/icons?i=codepen" height="45" alt="CodePen" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" style="border: 0px; padding: 8px; white-space: nowrap;"><code>game development</code></td>
+    <td style="border: 0px; padding: 8px;">
+      <img src="https://skillicons.dev/icons?i=robloxstudio" height="45" alt="Roblox Studio" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" style="border: 0px; padding: 8px; white-space: nowrap;"><code>hardware</code></td>
+    <td style="border: 0px; padding: 8px;">
+      <img src="https://skillicons.dev/icons?i=arduino" height="45" alt="Arduino" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" style="border: 0px; padding: 8px; white-space: nowrap;"><code>community</code></td>
+    <td style="border: 0px; padding: 8px;">
+      <img src="https://skillicons.dev/icons?i=discord" height="45" alt="Discord" />
+      <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
+      <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="Twitter" />
+    </td>
+  </tr>
 </table>
 
-> Yes... I'm pretty comfortable with every languages and libraries on this list.
+> Yuh... I'm pretty comfortable with every languages and libraries on this list.
 
 <br/>
 
@@ -351,18 +394,18 @@
     <tr>
     <td colspan="2" valign="top" style="padding-top: 0px; ">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/bomberman-contribution-graph-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/bomberman-contribution-graph.svg">
-        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/bomberman-contribution-graph.svg" style="width: 100%; display: block; margin-bottom: 12px; margin-top:-16px" alt="Bomberman Contribution Graph">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/manual/bomberman-contribution-graph-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/manual/bomberman-contribution-graph.svg">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/manual/bomberman-contribution-graph.svg" style="width: 100%; display: block; margin-bottom: 12px; margin-top:-16px" alt="Bomberman Contribution Graph">
       </picture>
     </td>
   </tr>
     <tr>
     <td colspan="2" valign="top" style="padding-top: 0px; ">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/github-snake-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/github-snake.svg">
-        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/github-snake.svg" style="width: 100%; display: block; margin-bottom: 12px; margin-top:-16px" alt="Snake Contribution Graph">
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/manual/github-snake-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/manual/github-snake.svg">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/manual/github-snake.svg" style="width: 100%; display: block; margin-bottom: 12px; margin-top:-16px" alt="Snake Contribution Graph">
       </picture>
     </td>
   </tr>
