@@ -56,7 +56,7 @@
 
 - ☕ My portfolio: [click click ✨](https://divyanshudhruv.is-a.dev)
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qbadtjcquhhs6jol3iis3x3wey&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
+> <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qbadtjcquhhs6jol3iis3x3wey&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
 
 <br>
 
