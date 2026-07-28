@@ -22,7 +22,7 @@
 
 <img src="https://u8views.com/api/v1/github/profiles/71079602/views/day-week-month-total-count.svg?style=for-the-badge" height="22">
 
- <img src="https://user-badge.committers.top/india/divyanshudhruv.svg?style=for-the-badge" height="29"> 
+ <img src="https://user-badge.committers.top/india/divyanshudhruv.svg?style=for-the-badge" height="29">
 
 <br>
 
@@ -56,26 +56,39 @@
 
 - ☕ My portfolio: [click click ✨](https://divyanshudhruv.is-a.dev)
 
-<br>
-
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qbadtjcquhhs6jol3iis3x3wey&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
 
 <br>
 
-<table style="width: 100%; border: 0px;">
-  <tr>
-    <td width="50%" valign="top" style="border: 0px; padding: 6px;">
-      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.starlists.languages.svg" style="width: 100%; display: block; margin-bottom: 12px;">
-      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.achievements.svg" style="width: 100%; display: block; margin-bottom: 12px;">
-      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.habits.charts.svg" style="width: 100%; display: block;">
-    </td>
-    <td width="50%" valign="top" style="border: 0px; padding: 6px;">
-      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.topics.icons.svg" style="width: 100%; display: block; margin-bottom: 12px;">
-      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.habits.facts.svg" style="width: 100%; display: block; margin-bottom: 12px;">
-      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.languages.svg" style="width: 100%; display: block;">
-    </td>
-  </tr>
-</table>
+# 📈 Detailed Metrics
+
+<details>
+  <summary>Click to expand detailed metrics</summary>
+  <br>
+  <table style="width: 100%; border: 0px;">
+    <tr>
+      <td width="50%" valign="top" style="border: 0px; padding: 6px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.starlists.languages.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.achievements.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.habits.charts.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.followup.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.gists.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.licenses.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.notable.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.pagespeed.svg" style="width: 100%; display: block;">
+      </td>
+      <td width="50%" valign="top" style="border: 0px; padding: 6px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.topics.icons.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.habits.facts.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.languages.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.activity.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.stars.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.discussions.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.reactions.svg" style="width: 100%; display: block;">
+      </td>
+    </tr>
+  </table>
+</details>
 
 <br/>
 

@@ -10,7 +10,7 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 30
 
     steps:
       - uses: actions/checkout@v4
@@ -94,5 +94,99 @@ jobs:
           plugin_lines_sections: base
           config_timezone: Asia/Kolkata
           config_twemoji: true
+          extras_css: |
+            :root{--bg:transparent}svg{background:transparent!important}
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: plugin.followup.svg
+          token: ${{ secrets.SECRET_GITHUB_TOKEN }}
+          committer_branch: output
+          base: ""
+          plugin_followup: yes
+          extras_css: |
+            :root{--bg:transparent}svg{background:transparent!important}
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: plugin.activity.svg
+          token: ${{ secrets.SECRET_GITHUB_TOKEN }}
+          committer_branch: output
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          extras_css: |
+            :root{--bg:transparent}svg{background:transparent!important}
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: plugin.stars.svg
+          token: ${{ secrets.SECRET_GITHUB_TOKEN }}
+          committer_branch: output
+          base: ""
+          plugin_stars: yes
+          plugin_stars_limit: 4
+          extras_css: |
+            :root{--bg:transparent}svg{background:transparent!important}
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: plugin.discussions.svg
+          token: ${{ secrets.SECRET_GITHUB_TOKEN }}
+          committer_branch: output
+          base: ""
+          plugin_discussions: yes
+          extras_css: |
+            :root{--bg:transparent}svg{background:transparent!important}
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: plugin.gists.svg
+          token: ${{ secrets.SECRET_GITHUB_TOKEN }}
+          committer_branch: output
+          base: ""
+          plugin_gists: yes
+          extras_css: |
+            :root{--bg:transparent}svg{background:transparent!important}
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: plugin.reactions.svg
+          token: ${{ secrets.SECRET_GITHUB_TOKEN }}
+          committer_branch: output
+          base: ""
+          plugin_reactions: yes
+          plugin_reactions_limit: 100
+          extras_css: |
+            :root{--bg:transparent}svg{background:transparent!important}
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: plugin.licenses.svg
+          token: ${{ secrets.SECRET_GITHUB_TOKEN }}
+          committer_branch: output
+          base: ""
+          plugin_licenses: yes
+          extras_css: |
+            :root{--bg:transparent}svg{background:transparent!important}
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: plugin.notable.svg
+          token: ${{ secrets.SECRET_GITHUB_TOKEN }}
+          committer_branch: output
+          base: ""
+          plugin_notable: yes
+          extras_css: |
+            :root{--bg:transparent}svg{background:transparent!important}
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: plugin.pagespeed.svg
+          token: ${{ secrets.SECRET_GITHUB_TOKEN }}
+          committer_branch: output
+          base: ""
+          plugin_pagespeed: yes
+          plugin_pagespeed_url: https://divyanshudhruv.is-a.dev
           extras_css: |
             :root{--bg:transparent}svg{background:transparent!important}
