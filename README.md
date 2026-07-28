@@ -23,6 +23,7 @@
 <img src="https://u8views.com/api/v1/github/profiles/71079602/views/day-week-month-total-count.svg?style=for-the-badge" height="22">
 
  <img src="https://user-badge.committers.top/india/divyanshudhruv.svg?style=for-the-badge" height="29"> 
+ 
 <br>
 
 <div id="toc">
@@ -54,6 +55,10 @@
 - 📫 Find Me: **`Github`** , **`Discord`** , **`Codepen`** , **`Dev.to`**, **`Peerlist`**, **`Linkedin`**, **`Re-Folio`**
 
 - ☕ My portfolio: [click click ✨](https://divyanshudhruv.is-a.dev)
+
+<br>
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qbadtjcquhhs6jol3iis3x3wey&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
 
 <br>
 
