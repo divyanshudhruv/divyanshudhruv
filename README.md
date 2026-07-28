@@ -23,7 +23,7 @@
 <img src="https://u8views.com/api/v1/github/profiles/71079602/views/day-week-month-total-count.svg?style=for-the-badge" height="22">
 
  <img src="https://user-badge.committers.top/india/divyanshudhruv.svg?style=for-the-badge" height="29"> 
- 
+
 <br>
 
 <div id="toc">
@@ -40,7 +40,7 @@
 
 ## 😐 A little about me
 
-<img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.introduction.svg">
+<img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.introduction.svg">
 
 - 🟧 Fellow @ **YC Startup School India 2k26**
 
@@ -65,14 +65,14 @@
 <table style="width: 100%; border: 0px;">
   <tr>
     <td width="50%" valign="top" style="border: 0px; padding: 6px;">
-      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.starlists.languages.svg" style="width: 100%; display: block; margin-bottom: 12px;">
-      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.achievements.svg" style="width: 100%; display: block; margin-bottom: 12px;">
-      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.habits.charts.svg" style="width: 100%; display: block;">
+      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.starlists.languages.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.achievements.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.habits.charts.svg" style="width: 100%; display: block;">
     </td>
     <td width="50%" valign="top" style="border: 0px; padding: 6px;">
-      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.topics.icons.svg" style="width: 100%; display: block; margin-bottom: 12px;">
-      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.habits.facts.svg" style="width: 100%; display: block; margin-bottom: 12px;">
-      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.languages.svg" style="width: 100%; display: block;">
+      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.topics.icons.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.habits.facts.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.languages.svg" style="width: 100%; display: block;">
     </td>
   </tr>
 </table>
@@ -394,6 +394,11 @@
     <td colspan="2" valign="top" style="padding-top: 0px; ">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshudhruv&theme=xcode&hide_border=true&border_radius=0" style="width: 100%; display: block; margin-bottom: 12px; margin-top:-16px" alt="Activity Graph">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyanshudhruv&theme=apprentice&name=divyanshudhruv&source=demo&_t=1785170793156&hide_border=true&border_radius=0" style="width: 100%; display: block;">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center" valign="top" style="padding-top: 8px;">
+      <code>some animated contribution graphs <b>༼ つ ◕_◕ ༽つ</b></code>
     </td>
   </tr>
     <tr>

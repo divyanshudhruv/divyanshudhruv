@@ -2,7 +2,7 @@ name: generate lowlighter metrics
 
 on:
   schedule:
-    - cron: "30 0 * * *"
+    - cron: "30 2 * * 0"
   workflow_dispatch:
 
 jobs:
@@ -17,7 +17,7 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
-          filename: plugin.starlists.languages.svg
+          filename: metrics/plugin.starlists.languages.svg
           token: ${{ secrets.SECRET_GITHUB_TOKEN }}
           committer_branch: output
           base: ""
@@ -30,7 +30,7 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
-          filename: plugin.topics.icons.svg
+          filename: metrics/plugin.topics.icons.svg
           token: ${{ secrets.SECRET_GITHUB_TOKEN }}
           committer_branch: output
           base: ""
@@ -42,10 +42,10 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
-          filename: plugin.achievements.svg
+          filename: metrics/plugin.achievements.svg
           token: ${{ secrets.SECRET_GITHUB_TOKEN }}
           committer_branch: output
-          base: header
+          base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_threshold: B
@@ -54,7 +54,7 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
-          filename: plugin.habits.facts.svg
+          filename: metrics/plugin.habits.facts.svg
           token: ${{ secrets.SECRET_GITHUB_TOKEN }}
           committer_branch: output
           base: ""
