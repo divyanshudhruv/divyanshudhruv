@@ -40,7 +40,7 @@
 
 ## 😐 A little about me
 
-<img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.introduction.svg">
+<img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.introduction.svg">
 
 - 🟧 Fellow @ **YC Startup School India 2k26**
 
@@ -54,7 +54,7 @@
 
 - 📫 Find Me: **`Github`** , **`Discord`** , **`Codepen`** , **`Dev.to`**, **`Peerlist`**, **`Linkedin`**, **`Re-Folio`**
 
-- ☕ My portfolio: [click click ✨](https://divyanshudhruv.is-a.dev)
+- ☕ My portfolio: [click click ✨](https://divyanshudhruv.is-a.dev)[^1]
 
 > <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qbadtjcquhhs6jol3iis3x3wey&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
 
@@ -68,23 +68,23 @@
   <table style="width: 100%; border: 0px;">
     <tr>
       <td width="50%" valign="top" style="border: 0px; padding: 6px;">
-        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.starlists.languages.svg" style="width: 100%; display: block; margin-bottom: 12px;">
-        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.achievements.svg" style="width: 100%; display: block; margin-bottom: 12px;">
-        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.habits.charts.svg" style="width: 100%; display: block; margin-bottom: 12px;">
-        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.followup.svg" style="width: 100%; display: block; margin-bottom: 12px;">
-        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.gists.svg" style="width: 100%; display: block; margin-bottom: 12px;">
-        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.licenses.svg" style="width: 100%; display: block; margin-bottom: 12px;">
-        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.notable.svg" style="width: 100%; display: block; margin-bottom: 12px;">
-        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.pagespeed.svg" style="width: 100%; display: block;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.starlists.languages.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.achievements.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.habits.charts.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.followup.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.gists.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.licenses.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.notable.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.pagespeed.svg" style="width: 100%; display: block;">
       </td>
       <td width="50%" valign="top" style="border: 0px; padding: 6px;">
-        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.topics.icons.svg" style="width: 100%; display: block; margin-bottom: 12px;">
-        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.habits.facts.svg" style="width: 100%; display: block; margin-bottom: 12px;">
-        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.languages.svg" style="width: 100%; display: block; margin-bottom: 12px;">
-        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.activity.svg" style="width: 100%; display: block; margin-bottom: 12px;">
-        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.stars.svg" style="width: 100%; display: block; margin-bottom: 12px;">
-        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.discussions.svg" style="width: 100%; display: block; margin-bottom: 12px;">
-        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/plugin.reactions.svg" style="width: 100%; display: block;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.topics.icons.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.habits.facts.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.languages.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.activity.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.stars.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.discussions.svg" style="width: 100%; display: block; margin-bottom: 12px;">
+        <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.reactions.svg" style="width: 100%; display: block;">
       </td>
     </tr>
   </table>
@@ -309,7 +309,7 @@
   </tr>
 </table>
 
-> Yuh... I'm pretty comfortable with every languages and libraries on this list.
+> Yuh... I'm pretty comfortable with every languages and libraries on this list.[^2]
 
 <br/>
 
@@ -318,65 +318,82 @@
 > [!TIP]
 > PROPOSED: Ideas still in concept phase
 
-- **🗝️** [**Keyshard**](https://#): An ephemeral environment manager injecting `encrypted production secrets` directly into memory.
+1. **🗝️** [**Keyshard**](https://#): An ephemeral environment manager injecting `encrypted production secrets` directly into memory.
 
-- **🔗** [**XxxxxxXx**](https://#): An autonomous professional networking simulator populated entirely by interacting `AI agents`.
+2. **🔗** [**XxxxxxXx**](https://#): An autonomous professional networking simulator populated entirely by interacting `AI agents`.
 
-- **🪈** [**Peerpipe**](https://#): A borderless, peer-to-peer terminal interface for secure, `decentralized` file transfers.
+3. **🪈** [**Peerpipe**](https://#): A borderless, peer-to-peer terminal interface for secure, `decentralized` file transfers.
 
-- **🗣️** [**Echoflow + Retain**](https://#): A standalone, high-performance terminal utility for localized `speech-to-text` processing.
+4. **🗣️** [**Echoflow + Retain**](https://#): A standalone, high-performance terminal utility for localized `speech-to-text` processing.
 
 <br>
 
 > [!IMPORTANT]
 > NEW FEATURED: Active projects I'm currently building
 
-- **🌾** [**Silo**](https://github.com/divyanshudhruv/silo): Zero-infrastructure, `local-first` version manager with simpler commands, built for iterators and `AI agents`.
+1. **🌾** [**Silo**](https://github.com/divyanshudhruv/silo): Zero-infrastructure, `local-first` version manager with simpler commands, built for iterators and `AI agents`.
 
-- **🧵** [**ONGOING: Weave**](https://weave.design/): A declarative orchestration engine for building autonomous, `YAML-defined` web data pipelines.
-- **🌐** [**ONGOING: Cummand**](https://#): A minimalist `reverse-tunneling` CLI that exposes local servers to the web with real-time TUI logs.
-- **🗿** [**Termux**](https://#): A lightweight `AI terminal` with a built-in editor and agents.
+   > - [x] launched [^3]
 
-- **🗄️** [**AeroDB**](https://aerodb.system): A `RESP-compatible` network database featuring `scratch-built` vector similarity search and time-travel key versioning.
+2. **🧵** [**ONGOING: Weave**](https://weave.design/): A declarative orchestration engine for building autonomous, `YAML-defined` web data pipelines.
 
-- **🧠** [**Retain**](https://#): An open-source, local-first `screen memory engine` providing a time-aware, personal LLM with absolute privacy.
+   > - [x] actively building
 
-- **📹** [**SHHHH: XxxXxxx**](https://xxxxxxx.build): A real-time, peer-to-peer terminal ASCII `xxxxx xxxxxxxxxxxx` platform built with XxxXXX and Textual.
+3. **🌐** [**ONGOING: Cummand**](https://#): A minimalist `reverse-tunneling` CLI that exposes local servers to the web with real-time TUI logs.
 
-- **📨** [**BANNED: KlarityAI**](https://klarity-ai.vercel.app/): Your `inbox`, chats, notes & chaos - turned into clarity.
+   > - [x] launched [^4]
 
-  <br>
+4. **🗿** [**Termux**](https://#): A lightweight `AI terminal` with a built-in editor and agents.
+
+   > - [ ] planned
+
+5. **🗄️** [**AeroDB**](https://aerodb.system): A `RESP-compatible` network database featuring `scratch-built` vector similarity search and time-travel key versioning.
+
+   > - [ ] planned
+
+6. **🧠** [**Retain**](https://#): An open-source, local-first `screen memory engine` providing a time-aware, personal LLM with absolute privacy.
+
+   > - [ ] concept phase
+
+7. **📹** [**SHHHH: XxxXxxx**](https://xxxxxxx.build): A real-time, peer-to-peer terminal ASCII `xxxxx xxxxxxxxxxxx` platform built with XxxXXX and Textual.
+
+   > - [ ] stealth
+
+8. ~~**📨** [**BANNED: KlarityAI**](https://klarity-ai.vercel.app/)~~: Your `inbox`, chats, notes & chaos - turned into clarity.
+   > - [x] banned
+
+<br>
 
 > [!WARNING]
 > OLD: Earlier projects (still maintained)
 
-- **📄** [**Re-Folio (beta)**](https://re-folio.vercel.app/): Transform your `resume` into a stunning portfolio.
+1. **📄** [**Re-Folio (beta)**](https://re-folio.vercel.app/): Transform your `resume` into a stunning portfolio.
 
-- **☄️** [**Sourceful Space**](https://sourceful.space/): Empowering `developers` and designers to explore, share, and contribute to `open-source` projects.
+2. **☄️** [**Sourceful Space**](https://sourceful.space/): Empowering `developers` and designers to explore, share, and contribute to `open-source` projects.
 
-- **👋** [**SayHalo**](https://sayhalo-slm.vercel.app): An `AI powered` SLM aggregator.
+3. **👋** [**SayHalo**](https://sayhalo-slm.vercel.app): An `AI powered` SLM aggregator.
 
-- **🎩** [**HelloLink**](https://github.com/divyanshudhruv/hellolink): Say `Hello` to your links, all in one place.
+4. **🎩** [**HelloLink**](https://github.com/divyanshudhruv/hellolink): Say `Hello` to your links, all in one place.
 
-- **🪑** [**Next-Bench - Sonamii**](https://nextbench.vercel.app): A user-friendly `web application` that helps students to find the best institutions near them.
+5. **🪑** [**Next-Bench - Sonamii**](https://nextbench.vercel.app): A user-friendly `web application` that helps students to find the best institutions near them.
 
-- **🏮** [**ONGOING: RegexSimplify**](https://github.com/divyanshudhruv/#): A simple `package` to simplify regex using chainable APIs.
+6. **🏮** [**ONGOING: RegexSimplify**](https://github.com/divyanshudhruv/#): A simple `package` to simplify regex using chainable APIs.
 
 <br>
 
 > [!CAUTION]
 > VERY OLD: Archived experiments and early work
 
-- **📋** [**CoClip**](https://coclip.sh/): A universal `clipboard` that lets you copy text from one device and access it `anywhere` effortlessly.
-- **🌊** [**DataDiver-AI**](https://datadiver-ai.vercel.app/): The ultimate tool for web scraping, `transforming` unstructured websites into clean JSON.
-- **⛓️‍💥** [**Eeon**](https://github.com/divyanshudhruv/eeon): An `AI assistant` for emoticons.
-- **🤖** [**Gitfolio**](https://github.com/divyanshudhruv/gitfolio): A `dynamic` github profile card generator
-- **✈️** [**Strix-ai**](https://github.com/divyanshudhruv/strix-ai): Easy `Delocalization`, fast and secure.
-- **💳** [**Pocket Vault**](https://github.com/divyanshudhruv/pocket-vault): A developer's vault for storing most used npm packages, deployments, snippets, repos, tools etc.
-- **⚡** [**Gitlog**](https://github.com/divyanshudhruv/gitlog): A list of common `git commit messages` for version control
-- **📁** [**Tidyfi**](https://github.com/divyanshudhruv/Tidyfi): A python `file` organizer
-- **📍** [**Minifolio**](https://github.com/divyanshudhruv/Minifolio): A `minimal` portfolio template for developers
-- **🚩** [**Better-Markdown**](https://github.com/divyanshudhruv/Better-Markdown): `Tips` for markdown
+1. ~~**📋** [**CoClip**](https://coclip.sh/)~~: A universal `clipboard` that lets you copy text from one device and access it `anywhere` effortlessly.
+2. ~~**🌊** [**DataDiver-AI**](https://datadiver-ai.vercel.app/)~~: The ultimate tool for web scraping, `transforming` unstructured websites into clean JSON.
+3. ~~**⛓️‍💥** [**Eeon**](https://github.com/divyanshudhruv/eeon)~~: An `AI assistant` for emoticons.
+4. ~~**🤖** [**Gitfolio**](https://github.com/divyanshudhruv/gitfolio)~~: A `dynamic` github profile card generator
+5. ~~**✈️** [**Strix-ai**](https://github.com/divyanshudhruv/strix-ai)~~: Easy `Delocalization`, fast and secure.
+6. ~~**💳** [**Pocket Vault**](https://github.com/divyanshudhruv/pocket-vault)~~: A developer's vault for storing most used npm packages, deployments, snippets, repos, tools etc.
+7. **⚡** [**Gitlog**](https://github.com/divyanshudhruv/gitlog): A list of common `git commit messages` for version control
+8. ~~**📁** [**Tidyfi**](https://github.com/divyanshudhruv/Tidyfi)~~: A python `file` organizer
+9. ~~**📍** [**Minifolio**](https://github.com/divyanshudhruv/Minifolio)~~: A `minimal` portfolio template for developers
+10. ~~**🚩** [**Better-Markdown**](https://github.com/divyanshudhruv/Better-Markdown)~~: `Tips` for markdown
 
  <br>
 
@@ -433,6 +450,16 @@
     </td>
   </tr>
 </table>
+
+<br>
+
+[^1]: Built with Next.js and deployed on Vercel
+
+[^2]: Check my new stats above for proof 😉
+
+[^3]: Star it if you like it! [github.com/divyanshudhruv/silo](https://github.com/divyanshudhruv/silo)
+
+[^4]: Star it if you like it too! [github.com/divyanshudhruv/cummand](https://github.com/divyanshudhruv/cummand)
 
 <!--
 <div style="display: flex; flex-wrap: wrap;">

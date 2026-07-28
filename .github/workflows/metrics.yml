@@ -68,7 +68,7 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
-          filename: plugin.habits.charts.svg
+          filename: metrics/plugin.habits.charts.svg
           token: ${{ secrets.SECRET_GITHUB_TOKEN }}
           committer_branch: output
           base: ""
@@ -83,7 +83,7 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
-          filename: plugin.introduction.svg
+          filename: metrics/plugin.introduction.svg
           token: ${{ secrets.SECRET_GITHUB_TOKEN }}
           committer_branch: output
           base: header, activity, community, repositories, metadata
@@ -99,7 +99,7 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
-          filename: plugin.followup.svg
+          filename: metrics/plugin.followup.svg
           token: ${{ secrets.SECRET_GITHUB_TOKEN }}
           committer_branch: output
           base: ""
@@ -109,7 +109,7 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
-          filename: plugin.activity.svg
+          filename: metrics/plugin.activity.svg
           token: ${{ secrets.SECRET_GITHUB_TOKEN }}
           committer_branch: output
           base: ""
@@ -120,7 +120,7 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
-          filename: plugin.stars.svg
+          filename: metrics/plugin.stars.svg
           token: ${{ secrets.SECRET_GITHUB_TOKEN }}
           committer_branch: output
           base: ""
@@ -131,7 +131,7 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
-          filename: plugin.discussions.svg
+          filename: metrics/plugin.discussions.svg
           token: ${{ secrets.SECRET_GITHUB_TOKEN }}
           committer_branch: output
           base: ""
@@ -141,7 +141,7 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
-          filename: plugin.gists.svg
+          filename: metrics/plugin.gists.svg
           token: ${{ secrets.SECRET_GITHUB_TOKEN }}
           committer_branch: output
           base: ""
@@ -151,7 +151,7 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
-          filename: plugin.reactions.svg
+          filename: metrics/plugin.reactions.svg
           token: ${{ secrets.SECRET_GITHUB_TOKEN }}
           committer_branch: output
           base: ""
@@ -162,7 +162,7 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
-          filename: plugin.licenses.svg
+          filename: metrics/plugin.licenses.svg
           token: ${{ secrets.SECRET_GITHUB_TOKEN }}
           committer_branch: output
           base: ""
@@ -172,7 +172,7 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
-          filename: plugin.notable.svg
+          filename: metrics/plugin.notable.svg
           token: ${{ secrets.SECRET_GITHUB_TOKEN }}
           committer_branch: output
           base: ""
@@ -182,11 +182,12 @@ jobs:
 
       - uses: lowlighter/metrics@latest
         with:
-          filename: plugin.pagespeed.svg
+          filename: metrics/plugin.pagespeed.svg
           token: ${{ secrets.SECRET_GITHUB_TOKEN }}
           committer_branch: output
           base: ""
           plugin_pagespeed: yes
           plugin_pagespeed_url: https://divyanshudhruv.is-a.dev
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
           extras_css: |
             :root{--bg:transparent}svg{background:transparent!important}
