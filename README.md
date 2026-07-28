@@ -60,7 +60,7 @@
 
 <br>
 
-# 📈 Detailed Metrics
+## 📈 Detailed Metrics
 
 <details>
   <summary>Click to expand detailed metrics</summary>
