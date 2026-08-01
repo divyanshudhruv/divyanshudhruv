@@ -40,7 +40,9 @@
 
 ## 😐 A little about me
 
-<img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.introduction.svg">
+<img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/metrics/plugin.introduction.svg" width="450">
+
+<img width="450" alt="image" src="https://github.com/user-attachments/assets/2e84cd18-7700-4377-a6e8-11d99b308709" />
 
 - 🟧 Fellow @ **YC Startup School India 2k26**
 
@@ -55,6 +57,8 @@
 - 📫 Find Me: **`Github`** , **`Discord`** , **`Codepen`** , **`Dev.to`**, **`Peerlist`**, **`Linkedin`**, **`Re-Folio`**
 
 - ☕ My portfolio: [click click ✨](https://divyanshudhruv.is-a.dev)[^1]
+
+<br>
 
 > <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qbadtjcquhhs6jol3iis3x3wey&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true">
 
@@ -121,6 +125,7 @@
       <img src="https://skillicons.dev/icons?i=java" height="45" alt="Java" />
       <img src="https://skillicons.dev/icons?i=cs" height="45" alt="C#" />
       <img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++" />
+                <b><code>...exploring</code></b>
     </td>
   </tr>
   <tr>
@@ -197,6 +202,7 @@
       <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB" />
       <img src="https://skillicons.dev/icons?i=redis" height="45" alt="Redis" />
       <img src="https://skillicons.dev/icons?i=sqlite" height="45" alt="SQLite" />
+        <b><code>...more</code></b>
     </td>
   </tr>
   <tr>
@@ -205,6 +211,7 @@
       <img src="https://skillicons.dev/icons?i=firebase" height="45" alt="Firebase" />
       <img src="https://skillicons.dev/icons?i=supabase" height="45" alt="Supabase" />
       <img src="https://skillicons.dev/icons?i=prisma" height="45" alt="Prisma" />
+        <b><code>...more</code></b>
     </td>
   </tr>
   <tr>
@@ -235,6 +242,7 @@
     <td style="border: 0px; padding: 8px;">
       <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Vercel" />
       <img src="https://skillicons.dev/icons?i=netlify" height="45" alt="Netlify" />
+        <b><code>...more</code></b>
     </td>
   </tr>
   <tr>
@@ -251,6 +259,7 @@
     <td style="border: 0px; padding: 8px;">
       <img src="https://skillicons.dev/icons?i=vite" height="45" alt="Vite" />
       <img src="https://skillicons.dev/icons?i=babel" height="45" alt="Babel" />
+        <b><code>...more</code></b>
     </td>
   </tr>
   <tr>
@@ -260,15 +269,18 @@
       <img src="https://skillicons.dev/icons?i=sublime" height="45" alt="Sublime" />
       <img src="https://skillicons.dev/icons?i=eclipse" height="45" alt="Eclipse" />
       <img src="https://skillicons.dev/icons?i=idea" height="45" alt="IntelliJ IDEA" />
+      <img src="https://skillicons.dev/icons?i=pycharm" height="45" alt="Pycharm" />
       <img src="https://skillicons.dev/icons?i=vscodium" height="45" alt="VSCodium" />
       <img src="https://skillicons.dev/icons?i=webstorm" height="45" alt="WebStorm" />
       <img src="https://skillicons.dev/icons?i=neovim" height="45" alt="Neovim" />
+        <b><code>...more</code></b>
     </td>
   </tr>
   <tr>
     <td valign="top" style="border: 0px; padding: 8px; white-space: nowrap;"><code>design</code></td>
     <td style="border: 0px; padding: 8px;">
       <img src="https://skillicons.dev/icons?i=figma" height="45" alt="Figma" />
+        <b><code>...more</code></b>
     </td>
   </tr>
   <tr>
@@ -278,6 +290,7 @@
       <img src="https://skillicons.dev/icons?i=notion" height="45" alt="Notion" />
       <img src="https://skillicons.dev/icons?i=latex" height="45" alt="LaTeX" />
       <img src="https://skillicons.dev/icons?i=md" height="45" alt="Markdown" />
+        <b><code>...more</code></b>
     </td>
   </tr>
   <tr>
@@ -285,6 +298,8 @@
     <td style="border: 0px; padding: 8px;">
       <img src="https://skillicons.dev/icons?i=replit" height="45" alt="Replit" />
       <img src="https://skillicons.dev/icons?i=codepen" height="45" alt="CodePen" />
+      <img src="https://www.readmecodegen.com/api/social-icon?name=claude&size=45&bg=%23f3f4f6" alt="claude" />
+      <b><code>...more</code></b>
     </td>
   </tr>
   <tr>
@@ -305,6 +320,7 @@
       <img src="https://skillicons.dev/icons?i=discord" height="45" alt="Discord" />
       <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
       <img src="https://skillicons.dev/icons?i=twitter" height="45" alt="Twitter" />
+        <b><code>...more</code></b>
     </td>
   </tr>
 </table>
@@ -318,6 +334,8 @@
 > [!TIP]
 > PROPOSED: Ideas still in concept phase
 
+<details><summary>👆 Click to open</summary>
+
 1. **🗝️** [**Keyshard**](https://#): An ephemeral environment manager injecting `encrypted production secrets` directly into memory.
 
 2. **🔗** [**XxxxxxXx**](https://#): An autonomous professional networking simulator populated entirely by interacting `AI agents`.
@@ -326,46 +344,58 @@
 
 4. **🗣️** [**Echoflow + Retain**](https://#): A standalone, high-performance terminal utility for localized `speech-to-text` processing.
 
+</details>
+
 <br>
 
 > [!IMPORTANT]
 > NEW FEATURED: Active projects I'm currently building
 
-1. **🌾** [**Silo**](https://github.com/divyanshudhruv/silo): Zero-infrastructure, `local-first` version manager with simpler commands, built for iterators and `AI agents`.
+<details><summary>👆 Click to open</summary>
+
+1. **🍁** [**dawnfall**](https://github.com/divyanshudhruv/dawnfall): A CLI tool that `collapses` all your project scripts into `one terminal`, eliminating directory-hopping.
+   > - [x] launched [^5]
+
+
+2. **🌾** [**Silo**](https://github.com/divyanshudhruv/silo): Zero-infrastructure, `local-first` version manager with simpler commands, built for iterators and `AI agents`.
 
    > - [x] launched [^3]
 
-2. **🧵** [**ONGOING: Weave**](https://weave.design/): A declarative orchestration engine for building autonomous, `YAML-defined` web data pipelines.
+3. **🧵** [**ONGOING: Weave**](https://weave.design/): A declarative orchestration engine for building autonomous, `YAML-defined` web data pipelines.
 
    > - [x] actively building
 
-3. **🌐** [**ONGOING: Cummand**](https://#): A minimalist `reverse-tunneling` CLI that exposes local servers to the web with real-time TUI logs.
+4. **🌐** [**ONGOING: Cummand**](https://#): A minimalist `reverse-tunneling` CLI that exposes local servers to the web with real-time TUI logs.
 
    > - [x] launched [^4]
 
-4. **🗿** [**Termux**](https://#): A lightweight `AI terminal` with a built-in editor and agents.
+5. **🗿** [**Termux**](https://#): A lightweight `AI terminal` with a built-in editor and agents.
 
    > - [ ] planned
 
-5. **🗄️** [**AeroDB**](https://aerodb.system): A `RESP-compatible` network database featuring `scratch-built` vector similarity search and time-travel key versioning.
+6. **🗄️** [**AeroDB**](https://aerodb.system): A `RESP-compatible` network database featuring `scratch-built` vector similarity search and time-travel key versioning.
 
    > - [ ] planned
 
-6. **🧠** [**Retain**](https://#): An open-source, local-first `screen memory engine` providing a time-aware, personal LLM with absolute privacy.
+7. **🧠** [**Retain**](https://#): An open-source, local-first `screen memory engine` providing a time-aware, personal LLM with absolute privacy.
 
    > - [ ] concept phase
 
-7. **📹** [**SHHHH: XxxXxxx**](https://xxxxxxx.build): A real-time, peer-to-peer terminal ASCII `xxxxx xxxxxxxxxxxx` platform built with XxxXXX and Textual.
+8. **📹** [**SHHHH: XxxXxxx**](https://xxxxxxx.build): A real-time, peer-to-peer terminal ASCII `xxxxx xxxxxxxxxxxx` platform built with XxxXXX and Textual.
 
    > - [ ] stealth
 
-8. ~~**📨** [**BANNED: KlarityAI**](https://klarity-ai.vercel.app/)~~: Your `inbox`, chats, notes & chaos - turned into clarity.
+9. ~~**📨** [**BANNED: KlarityAI**](https://klarity-ai.vercel.app/)~~: Your `inbox`, chats, notes & chaos - turned into clarity.
    > - [x] banned
+
+</details>
 
 <br>
 
 > [!WARNING]
 > OLD: Earlier projects (still maintained)
+
+<details><summary>👆 Click to open</summary>
 
 1. **📄** [**Re-Folio (beta)**](https://re-folio.vercel.app/): Transform your `resume` into a stunning portfolio.
 
@@ -379,10 +409,13 @@
 
 6. **🏮** [**ONGOING: RegexSimplify**](https://github.com/divyanshudhruv/#): A simple `package` to simplify regex using chainable APIs.
 
+</details>
 <br>
 
 > [!CAUTION]
 > VERY OLD: Archived experiments and early work
+
+<details><summary>👆 Click to open</summary>
 
 1. ~~**📋** [**CoClip**](https://coclip.sh/)~~: A universal `clipboard` that lets you copy text from one device and access it `anywhere` effortlessly.
 2. ~~**🌊** [**DataDiver-AI**](https://datadiver-ai.vercel.app/)~~: The ultimate tool for web scraping, `transforming` unstructured websites into clean JSON.
@@ -395,6 +428,7 @@
 9. ~~**📍** [**Minifolio**](https://github.com/divyanshudhruv/Minifolio)~~: A `minimal` portfolio template for developers
 10. ~~**🚩** [**Better-Markdown**](https://github.com/divyanshudhruv/Better-Markdown)~~: `Tips` for markdown
 
+</details>
  <br>
 
 ## 😵 Some random stats
@@ -449,6 +483,16 @@
       </picture>
     </td>
   </tr>
+     <tr>
+    <td colspan="2" align="center" valign="top" style="padding-top: 8px;">
+      <code>my holopin badges <b>╰(*°▽°*)╯</b></code>
+    </td>
+  </tr>
+       <tr>
+    <td colspan="2" valign="top" style="padding-top: 0px; ">
+        <img src="https://holopin.me/divyanshudhruv" style="width: 100%; display: block; margin-bottom: 12px; margin-top:-8px" alt="Snake Contribution Graph">
+    </td>
+  </tr>
 </table>
 
 <br>
@@ -460,6 +504,9 @@
 [^3]: Star it if you like it! [github.com/divyanshudhruv/silo](https://github.com/divyanshudhruv/silo)
 
 [^4]: Star it if you like it too! [github.com/divyanshudhruv/cummand](https://github.com/divyanshudhruv/cummand)
+
+[^5]: Star this too if you like it! [github.com/divyanshudhruv/dawnfall](https://github.com/divyanshudhruv/dawnfall)
+
 
 <!--
 <div style="display: flex; flex-wrap: wrap;">
