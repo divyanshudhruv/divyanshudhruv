@@ -1,0 +1,43 @@
+name: generate profile summary cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.SECRET_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 5
+          EXCLUDE: ""
+          AUTO_PUSH: false
+          THEME: "apprentice"
+          ANIMATION: "draw"
+          DURATION: "3"
+          NAME: ""
+
+      - name: organize into output-files
+        shell: bash
+        run: |
+          mkdir -p output-files/profile-summary-card-output
+          [ -d profile-summary-card-output ] && mv profile-summary-card-output/* output-files/profile-summary-card-output/ || true
+
+      - name: push to output branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.SECRET_GITHUB_TOKEN }}
+          publish_dir: ./output-files
+          publish_branch: output
+          keep_files: true

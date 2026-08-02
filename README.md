@@ -448,16 +448,16 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyanshudhruv&theme=apprentice&_t=1785170479010" style="width: 100%; display: block; margin-top:-20px" alt="GitHub Stats">
+      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/profile-summary-card-output/apprentice/3-stats.svg" style="width: 100%; display: block; margin-top:-20px" alt="GitHub Stats">
     </td>
     <td width="50%" valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=divyanshudhruv&theme=apprentice&utcOffset=5.5&source=demo&_t=1785170793156" style="width: 100%; display: block; margin-top:-20px" alt="Productive Time">
+      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/profile-summary-card-output/apprentice/4-productive-time.svg" style="width: 100%; display: block; margin-top:-20px" alt="Productive Time">
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top" style="padding-top: 0px; ">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshudhruv&theme=xcode&hide_border=true&border_radius=0" style="width: 100%; display: block; margin-bottom: 12px; margin-top:-16px" alt="Activity Graph">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=divyanshudhruv&theme=apprentice&name=divyanshudhruv&source=demo&_t=1785170793156&hide_border=true&border_radius=0" style="width: 100%; display: block;">
+      <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/profile-summary-card-output/apprentice/0-profile-details.svg" style="width: 100%; display: block;">
     </td>
   </tr>
   <tr>
