@@ -497,6 +497,11 @@
 
 <br>
 
+<details>
+  <summary> <code>© 2026 Divyanshu Dhruv. <b>All rights reserved</b>.</code></summary>
+  <code>Unauthorized copying or replication of this profile README is strictly prohibited.</code>
+</details>
+
 [^1]: Built with Next.js and deployed on Vercel
 
 [^2]: Check my new stats above for proof 😉
