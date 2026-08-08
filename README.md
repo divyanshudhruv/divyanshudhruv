@@ -332,9 +332,9 @@
 ## 🗃️ Some of my current projects
 
 > [!TIP]
-> PROPOSED: Ideas still in concept phase
+> `PROPOSED`: Ideas still in concept phase
 
-<details><summary>👆 Click to open</summary>
+<details><summary><code>👆 Click to open</code></summary>
 
 1. **🗝️** [**Keyshard**](https://#): An ephemeral environment manager injecting `encrypted production secrets` directly into memory.
 
@@ -349,9 +349,9 @@
 <br>
 
 > [!IMPORTANT]
-> NEW FEATURED: Active projects I'm currently building
+> `NEW FEATURED`: Active projects I'm currently building
 
-<details><summary>👆 Click to open</summary>
+<details><summary><code>👆 Click to open</code></summary>
 
 1. **🍁** [**dawnfall**](https://github.com/divyanshudhruv/dawnfall): A CLI tool that `collapses` all your project scripts into `one terminal`, eliminating directory-hopping.
    > - [x] launched [^5]
@@ -393,9 +393,9 @@
 <br>
 
 > [!WARNING]
-> OLD: Earlier projects (still maintained)
+> `OLD`: Earlier projects (still maintained)
 
-<details><summary>👆 Click to open</summary>
+<details><summary><code>👆 Click to open</code></summary>
 
 1. **📄** [**Re-Folio (beta)**](https://re-folio.vercel.app/): Transform your `resume` into a stunning portfolio.
 
@@ -413,9 +413,9 @@
 <br>
 
 > [!CAUTION]
-> VERY OLD: Archived experiments and early work
+> `VERY OLD`: Archived experiments and early work
 
-<details><summary>👆 Click to open</summary>
+<details><summary><code>👆 Click to open</code></summary>
 
 1. ~~**📋** [**CoClip**](https://coclip.sh/)~~: A universal `clipboard` that lets you copy text from one device and access it `anywhere` effortlessly.
 2. ~~**🌊** [**DataDiver-AI**](https://datadiver-ai.vercel.app/)~~: The ultimate tool for web scraping, `transforming` unstructured websites into clean JSON.
