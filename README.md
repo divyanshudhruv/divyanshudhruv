@@ -13,17 +13,21 @@
 
 <br>
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="180px" height="30px">
-<img src="img\love-md.svg" height="30px"></p>
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="180px" height="27.9px">
+<img src="https://hackatime-badge.hackclub.com/U082L85R01W/next-bench?style=for-the-badge">
+<img src="https://wakatime.com/badge/user/3abded35-ce5a-45e3-8c04-7ec2441b38c7.svg?style=for-the-badge"> 
+<img src="img\love-md.svg" height="29px"> 
 
-<p align="left"><img src="https://hackatime-badge.hackclub.com/U082L85R01W/next-bench?style=for-the-badge">
-<img src="https://wakatime.com/badge/user/3abded35-ce5a-45e3-8c04-7ec2441b38c7.svg?style=for-the-badge">
 </p>
 
-<img src="https://u8views.com/api/v1/github/profiles/71079602/views/day-week-month-total-count.svg?style=for-the-badge" height="22">
+<p align="left">
+</p>
+
+<!--<img src="https://u8views.com/api/v1/github/profiles/71079602/views/day-week-month-total-count.svg?style=for-the-badge" height="22">
 
  <img src="https://user-badge.committers.top/india/divyanshudhruv.svg?style=for-the-badge" height="29">
-
+-->
 <br>
 
 <div id="toc">
@@ -456,7 +460,7 @@
   </tr>
   <tr>
     <td colspan="2" valign="top" style="padding-top: 0px; ">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshudhruv&theme=xcode&hide_border=true&border_radius=0" style="width: 100%; display: block; margin-bottom: 12px; margin-top:-16px" alt="Activity Graph">
+     <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyanshudhruv&theme=xcode&hide_border=true&border_radius=0" style="width: 100%; display: block; margin-bottom: 12px; margin-top:-16px" alt="Activity Graph">-->
       <img src="https://raw.githubusercontent.com/divyanshudhruv/divyanshudhruv/output/profile-summary-card-output/apprentice/0-profile-details.svg" style="width: 100%; display: block;">
     </td>
   </tr>
