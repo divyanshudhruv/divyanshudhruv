@@ -18,17 +18,13 @@
 <img src="https://hackatime-badge.hackclub.com/U082L85R01W/next-bench?style=for-the-badge">
 <img src="https://wakatime.com/badge/user/3abded35-ce5a-45e3-8c04-7ec2441b38c7.svg?style=for-the-badge"> 
 <img src="img\love-md.svg" height="29px"> 
-
 </p>
 
-<p align="left">
-</p>
 
 <!--<img src="https://u8views.com/api/v1/github/profiles/71079602/views/day-week-month-total-count.svg?style=for-the-badge" height="22">
 
  <img src="https://user-badge.committers.top/india/divyanshudhruv.svg?style=for-the-badge" height="29">
 -->
-<br>
 
 <div id="toc">
   <ul align="left" style="list-style: none">
