@@ -32,8 +32,8 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="187.6595744680851" height="8" fill="#3178c6"/>
-                                        <rect mask="url(#languages-bar)" x="187.6595744680851" y="0" width="116.17021276595744" height="8" fill="#3572a5"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="196.59574468085106" height="8" fill="#3178c6"/>
+                                        <rect mask="url(#languages-bar)" x="196.59574468085106" y="0" width="107.23404255319149" height="8" fill="#3572a5"/>
                                         <rect mask="url(#languages-bar)" x="303.8297872340425" y="0" width="53.61702127659574" height="8" fill="#dea584"/>
                                         <rect mask="url(#languages-bar)" x="357.4468085106383" y="0" width="17.872340425531913" height="8" fill="#00add8"/>
                                         <rect mask="url(#languages-bar)" x="375.31914893617017" y="0" width="17.872340425531913" height="8" fill="#555555"/>
@@ -52,8 +52,8 @@
                                                 TypeScript
                                             </div>
                                             <small>
-                                                <div>41.18%</div>
-                                                <div>21★</div>
+                                                <div>43.14%</div>
+                                                <div>22★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -102,8 +102,8 @@
                                                 Python
                                             </div>
                                             <small>
-                                                <div>25.49%</div>
-                                                <div>13★</div>
+                                                <div>23.53%</div>
+                                                <div>12★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -155,7 +155,7 @@
                                 </svg>
                                 ⚙️ Agentic
                             </h2>
-                            <div class="count">19 repositories</div>
+                            <div class="count">20 repositories</div>
                             <div class="description"></div>
                             <div class="languages">
                                 <div class="row">
@@ -164,10 +164,10 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="233.33333333333334" height="8" fill="#3178c6"/>
-                                        <rect mask="url(#languages-bar)" x="233.33333333333334" y="0" width="140" height="8" fill="#3572a5"/>
-                                        <rect mask="url(#languages-bar)" x="373.3333333333333" y="0" width="23.333333333333332" height="8" fill="#00add8"/>
-                                        <rect mask="url(#languages-bar)" x="396.66666666666663" y="0" width="23.333333333333332" height="8" fill="#ec915c"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="265.2631578947368" height="8" fill="#3178c6"/>
+                                        <rect mask="url(#languages-bar)" x="265.2631578947368" y="0" width="110.52631578947368" height="8" fill="#3572a5"/>
+                                        <rect mask="url(#languages-bar)" x="375.78947368421046" y="0" width="22.105263157894736" height="8" fill="#00add8"/>
+                                        <rect mask="url(#languages-bar)" x="397.8947368421052" y="0" width="22.105263157894736" height="8" fill="#ec915c"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -180,8 +180,8 @@
                                                 TypeScript
                                             </div>
                                             <small>
-                                                <div>52.63%</div>
-                                                <div>10★</div>
+                                                <div>60%</div>
+                                                <div>12★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -192,7 +192,7 @@
                                                 Go
                                             </div>
                                             <small>
-                                                <div>5.26%</div>
+                                                <div>5%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -206,8 +206,8 @@
                                                 Python
                                             </div>
                                             <small>
-                                                <div>31.58%</div>
-                                                <div>6★</div>
+                                                <div>25%</div>
+                                                <div>5★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -218,7 +218,7 @@
                                                 Zig
                                             </div>
                                             <small>
-                                                <div>5.26%</div>
+                                                <div>5%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
