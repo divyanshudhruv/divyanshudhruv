@@ -46,6 +46,8 @@
 
 - 🟧 Fellow @ **YC Startup School India 2k26**
 
+- 💻 Des-Eng @ **Dopler**
+
 - ⚒️ I’m currently working on **`WEAVE`** 🧵☄️
 
 - 🌱 I’m currently learning about **`DSA`. `Web3` & `System Design`**
@@ -55,8 +57,6 @@
 - 😭 I miss **`2024`**
 
 - 📫 Find Me: **`Github`** , **`Discord`** , **`Codepen`** , **`Dev.to`**, **`Peerlist`**, **`Linkedin`**, **`Re-Folio`**
-
-- ☕ My portfolio: [click click ✨](https://divyanshudhruv.is-a.dev)[^1]
 
 <br>
 
@@ -353,41 +353,39 @@
 
 <details><summary><code>👆 Click to open</code></summary>
 
-1. **🍁** [**dawnfall**](https://github.com/divyanshudhruv/dawnfall): A CLI tool that `collapses` all your project scripts into `one terminal`, eliminating directory-hopping.
+2. **🪟** [**Slate**](https://github.com/divyanshudhruv/slate): A native Windows app that brings `browser-like tabs` to running applications, with workspace grouping, window detaching, and layout restoration.
+   > - [x] launched
+    
+2. **🧠** [**OEV**](https://github.com/divyanshudhruv/oev): An `184M-parameter` monolingual neural decision engine delivering calibrated probability distributions in a single `22ms` forward pass, matching models `2.3×` its size.
+   > - [x] not actively building
+
+3. **🍁** [**dawnfall**](https://github.com/divyanshudhruv/dawnfall): A CLI tool that `collapses` all your project scripts into `one terminal`, eliminating directory-hopping.
    > - [x] launched [^5]
 
-
-2. **🌾** [**Silo**](https://github.com/divyanshudhruv/silo): Zero-infrastructure, `local-first` version manager with simpler commands, built for iterators and `AI agents`.
-
+4. **🌾** [**Silo**](https://github.com/divyanshudhruv/silo): Zero-infrastructure, `local-first` version manager with simpler commands, built for iterators and `AI agents`.
    > - [x] launched [^3]
 
-3. **🧵** [**ONGOING: Weave**](https://weave.design/): A declarative orchestration engine for building autonomous, `YAML-defined` web data pipelines.
-
+5. **🧵** [**ONGOING: Weave**](https://weave.design/): A declarative orchestration engine for building autonomous, `YAML-defined` web data pipelines.
    > - [x] actively building
 
-4. **🌐** [**ONGOING: Cummand**](https://#): A minimalist `reverse-tunneling` CLI that exposes local servers to the web with real-time TUI logs.
-
+6. **🌐** [**ONGOING: Cummand**](https://#): A minimalist `reverse-tunneling` CLI that exposes local servers to the web with real-time TUI logs.
    > - [x] launched [^4]
 
-5. **🗿** [**Termux**](https://#): A lightweight `AI terminal` with a built-in editor and agents.
-
+7. **🗿** [**Termux**](https://#): A lightweight `AI terminal` with a built-in editor and agents.
    > - [ ] planned
 
-6. **🗄️** [**AeroDB**](https://aerodb.system): A `RESP-compatible` network database featuring `scratch-built` vector similarity search and time-travel key versioning.
-
+8. **🗄️** [**AeroDB**](https://aerodb.system): A `RESP-compatible` network database featuring `scratch-built` vector similarity search and time-travel key versioning.
    > - [ ] planned
 
-7. **🧠** [**Retain**](https://#): An open-source, local-first `screen memory engine` providing a time-aware, personal LLM with absolute privacy.
-
+9. **🧠** [**Retain**](https://#): An open-source, local-first `screen memory engine` providing a time-aware, personal LLM with absolute privacy.
    > - [ ] concept phase
 
-8. **📹** [**SHHHH: XxxXxxx**](https://xxxxxxx.build): A real-time, peer-to-peer terminal ASCII `xxxxx xxxxxxxxxxxx` platform built with XxxXXX and Textual.
+10. **📹** [**SHHHH: XxxXxxx**](https://xxxxxxx.build): A real-time, peer-to-peer terminal ASCII `xxxxx xxxxxxxxxxxx` platform built with XxxXXX and Textual.
+    > - [ ] stealth
 
-   > - [ ] stealth
-
-9. ~~**📨** [**BANNED: KlarityAI**](https://klarity-ai.vercel.app/)~~: Your `inbox`, chats, notes & chaos - turned into clarity.
-   > - [x] banned
-
+11. ~~**📨** [**BANNED: KlarityAI**](https://klarity-ai.vercel.app/): Your `inbox`, chats, notes & chaos - turned into clarity.~~
+    > - [x] banned
+    
 </details>
 
 <br>
