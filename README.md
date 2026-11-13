@@ -19,6 +19,8 @@
 <img src="https://komarev.com/ghpvc/?username=divyanshudhruv&style=for-the-badge&color=808fff" width="180px" height="27.9px">
 <img src="https://hackatime-badge.hackclub.com/U082L85R01W/next-bench?style=for-the-badge">
 <img src="https://wakatime.com/badge/user/3abded35-ce5a-45e3-8c04-7ec2441b38c7.svg?style=for-the-badge"> 
+
+<!--
 <img src="img\love-md.svg" height="29px"> 
     <a href="#" style="display:inline-block; width:auto;">
   <picture style="display:inline;">
